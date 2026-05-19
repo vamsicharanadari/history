@@ -1,38 +1,66 @@
 # Master Timeline
 
 ```mermaid
-timeline
-    title Master Timeline
-    0s : See output/0s.mmd
-    10s : See output/10s.mmd
-    1070s : See output/1070s.mmd
-    1300s : See output/1300s.mmd
-    1310s : See output/1310s.mmd
-    1600s : See output/1600s.mmd
-    1610s : See output/1610s.mmd
-    1720s : See output/1720s.mmd
-    1740s : See output/1740s.mmd
-    1770s : See output/1770s.mmd
-    1780s : See output/1780s.mmd
-    1790s : See output/1790s.mmd
-    1800s : See output/1800s.mmd
-    1820s : See output/1820s.mmd
-    1830s : See output/1830s.mmd
-    1880s : See output/1880s.mmd
-    1890s : See output/1890s.mmd
-    1900s : See output/1900s.mmd
-    1910s : See output/1910s.mmd
-    1920s : See output/1920s.mmd
-    1930s : See output/1930s.mmd
-    1940s : See output/1940s.mmd
-    1950s : See output/1950s.mmd
-    1960s : See output/1960s.mmd
-    1970s : See output/1970s.mmd
-    1980s : See output/1980s.mmd
-    1990s : See output/1990s.mmd
-    2000s : See output/2000s.mmd
-    2010s : See output/2010s.mmd
-    2020s : See output/2020s.mmd
+flowchart LR
+  H[History] --> D0[0s]
+  H --> D10[10s]
+  H --> D1070[1070s]
+  H --> D1300[1300s]
+  H --> D1310[1310s]
+  H --> D1600[1600s]
+  H --> D1610[1610s]
+  H --> D1720[1720s]
+  H --> D1740[1740s]
+  H --> D1770[1770s]
+  H --> D1780[1780s]
+  H --> D1790[1790s]
+  H --> D1800[1800s]
+  H --> D1820[1820s]
+  H --> D1830[1830s]
+  H --> D1880[1880s]
+  H --> D1890[1890s]
+  H --> D1900[1900s]
+  H --> D1910[1910s]
+  H --> D1920[1920s]
+  H --> D1930[1930s]
+  H --> D1940[1940s]
+  H --> D1950[1950s]
+  H --> D1960[1960s]
+  H --> D1970[1970s]
+  H --> D1980[1980s]
+  H --> D1990[1990s]
+  H --> D2000[2000s]
+  H --> D2010[2010s]
+  H --> D2020[2020s]
 ```
 
-- [Open 2020s](output/2020s.md)
+- [Open 0s](output/0s.mmd)
+- [Open 10s](output/10s.mmd)
+- [Open 1070s](output/1070s.mmd)
+- [Open 1300s](output/1300s.mmd)
+- [Open 1310s](output/1310s.mmd)
+- [Open 1600s](output/1600s.mmd)
+- [Open 1610s](output/1610s.mmd)
+- [Open 1720s](output/1720s.mmd)
+- [Open 1740s](output/1740s.mmd)
+- [Open 1770s](output/1770s.mmd)
+- [Open 1780s](output/1780s.mmd)
+- [Open 1790s](output/1790s.mmd)
+- [Open 1800s](output/1800s.mmd)
+- [Open 1820s](output/1820s.mmd)
+- [Open 1830s](output/1830s.mmd)
+- [Open 1880s](output/1880s.mmd)
+- [Open 1890s](output/1890s.mmd)
+- [Open 1900s](output/1900s.mmd)
+- [Open 1910s](output/1910s.mmd)
+- [Open 1920s](output/1920s.mmd)
+- [Open 1930s](output/1930s.mmd)
+- [Open 1940s](output/1940s.mmd)
+- [Open 1950s](output/1950s.mmd)
+- [Open 1960s](output/1960s.mmd)
+- [Open 1970s](output/1970s.mmd)
+- [Open 1980s](output/1980s.mmd)
+- [Open 1990s](output/1990s.mmd)
+- [Open 2000s](output/2000s.mmd)
+- [Open 2010s](output/2010s.mmd)
+- [Open 2020s](output/2020s.mmd)
