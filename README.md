@@ -107,6 +107,10 @@ timeline
               : 🎬 "World War II in Colour"
               : 📽️ SOURCE: WWII archival footage
               : 📽️ SCENES: Blitzkrieg invasion footage, Warsaw bombing destruction
+              : 🧾 Counterfeit currency sabotage begins to fit wartime strategy
+              : 🎬 Peaky Blinders: The Immortal Man
+              : 📽️ SOURCE: Historical basis: Operation Bernhard
+              : 📽️ SCENES: Nazi forgery campaign against British pounds, economic warfare setup
 
 
     1940–1945 : Nazi counterfeit currency campaign
