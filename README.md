@@ -182,6 +182,12 @@ timeline
          : Allied counter-offensives
          : 📽️ SOURCE: WWII archival footage
          : 📽️ SCENES: German retreat on Eastern Front, destroyed Panzer divisions
+         : 🎬 "Operation Mincemeat" (2021)
+         : 📽️ SOURCE: WWII deception drama based on the British Operation Mincemeat plan
+         : 📽️ SCENES: fake identity creation, corpse deception, intelligence briefings, Spanish neutral waters, Allied invasion misdirection
+         : 📍 Scene anchor: the false documents planted on the body and the spycraft coordination
+         : 🎯 Timestamp map: deception planning → corpse drop → German misdirection → Sicily invasion success
+         : 🧠 THEMATIC LINK: adds the intelligence-war side of WWII, like a spy thriller parallel to battlefield films
 
 
     1944 : D-Day Normandy invasion
