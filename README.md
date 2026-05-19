@@ -24,6 +24,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a mythic ancient-war chapter, pairing large-scale siege warfare with the heroic battlefield arcs already in the timeline
 
 
+     1014 CE : Chola Empire / South Indian historical epic
+         : A prince’s journey through political intrigue, war, and succession
+         : Royal rivalry, alliance-building, and battlefield strategy
+         : 🎬 "Ponniyin Selvan: I" (PS-1) (2022)
+         : 📽️ SOURCE: Mani Ratnam’s Tamil historical fiction film, the first part of the Ponniyin Selvan duology [web:282][web:284]
+         : 📽️ SCENES: Vandiyathevan crossing Chola territory, Kundavai’s political maneuvers, sea travel, conspiracy reveal, convoy tension [web:282][web:285]
+         : 📍 Scene anchor: the political conspiracy around Prince Arulmozhi Varman and the Chola throne [web:282][web:287]
+         : 🎯 Timestamp map: message delivery → court intrigue → travel across Chola lands → conspiracy escalation → royal resolution setup
+         : 🧠 THEMATIC LINK: adds a classical empire chapter, bringing dynastic politics, court intrigue, and historical pageantry into the timeline [web:282][web:284]
+
+
      480 BCE : Ancient warfare / Thermopylae
          : Spartan stand against a vastly larger invading force
          : Heroic last stand against overwhelming odds
