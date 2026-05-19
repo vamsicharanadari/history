@@ -489,6 +489,14 @@ timeline
          : 📍 Scene anchor: Stan Carlisle’s rise from carnival worker to fraudulent mentalist [web:491][web:495]
          : 🎯 Timestamp map: escape → carnival training → fraud success → elite con → collapse
          : 🧠 THEMATIC LINK: adds a noir tragedy chapter, moving the timeline into deception, class aspiration, and moral ruin [web:492][web:494]
+         : Udham Singh survives the Jallianwala Bagh massacre, waits years, then kills Michael O'Dwyer
+         : Revenge, memory, and anti-colonial resolve drive the story
+         : 🎬 "Sardar Udham" (2021)
+         : 📽️ SOURCE: Shoojit Sircar’s historical biographical drama starring Vicky Kaushal [web:513][web:517][web:520]
+         : 📽️ SCENES: massacre aftermath, underground activism, escape from India, London surveillance, courtroom aftermath
+         : 📍 Scene anchor: the assassination of Michael O'Dwyer in London, framed as delayed justice for Jallianwala Bagh [web:513][web:514][web:516]
+         : 🎯 Timestamp map: massacre → resistance → escape → long vigil → assassination
+         : 🧠 THEMATIC LINK: adds a political-historical chapter, centered on colonial violence, sacrifice, and memory [web:514][web:517]
 
 
     1941 : Barbarossa + Pearl Harbor
