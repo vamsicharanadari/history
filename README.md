@@ -694,3 +694,14 @@ timeline
          : 📍 Scene anchor: the ritual possession climax and the confrontation over the forest land [web:97][web:102]
          : 🎯 Timestamp map: village life → land conflict → spiritual escalation → possession → resolution
          : 🧠 THEMATIC LINK: adds a mythic rural chapter, blending folklore-driven conflict with the larger war-and-struggle timeline [web:97][web:98]
+
+
+     2025 : Kerala / superhero folklore
+         : A woman discovers hidden powers and steps into a mythic battle
+         : Identity, memory, and supernatural conflict drive the story
+         : 🎬 "Lokah Chapter 1: Chandra" (2025)
+         : 📽️ SOURCE: Malayalam-language fantasy superhero film set in a mythic modern world
+         : 📽️ SCENES: awakening, discovery of powers, chase sequences, confrontation, reveal of the larger world
+         : 📍 Scene anchor: Chandra’s first major power reveal
+         : 🎯 Timestamp map: normal life → awakening → pursuit → power escalation → legend begins
+         : 🧠 THEMATIC LINK: adds a mythic superhero chapter, broadening the timeline into folklore-infused fantasy and contemporary spectacle
