@@ -176,3 +176,9 @@ timeline
          : 📽️ REAL-WORLD REF: End-stage Nazi Germany, civilian disillusionment, war’s impact on children and families
          : 📽️ SOURCE: Band of Brothers final episode material
          : WWII ends
+         : 🎬 "Hacksaw Ridge" (2016)
+         : 📽️ SOURCE: Hacksaw Ridge (Mel Gibson film based on Desmond Doss)
+         : 📽️ SCENES: Maeda Escarpment (“Hacksaw Ridge”) assault, cliff climb under fire, nighttime solo rescues
+         : 📍 Scene anchor: Desmond Doss lowering wounded soldiers one-by-one (“Lord, help me get one more”)
+         : 🎯 Timestamp map: ridge assault → medics overwhelmed → Doss’ lone rescue mission
+         : 🧠 THEMATIC LINK: contrasts armed combat with a conscientious objector saving lives without firing a weapon
