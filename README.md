@@ -610,6 +610,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a covert intelligence chapter to the timeline, shifting from open military action to deception and exfiltration [web:2][web:10]
 
 
+     1985 : Portland / Nike headquarters
+         : A struggling sportswear company bets everything on one rookie athlete
+         : Business risk, branding, and corporate persuasion drive the story
+         : 🎬 "Air" (2023)
+         : 📽️ SOURCE: Biographical sports drama about Nike’s pursuit of Michael Jordan and the creation of Air Jordan [web:298][web:299][web:302]
+         : 📽️ SCENES: recruitment pitch, office debates, player-family negotiations, contract breakthrough, brand launch
+         : 📍 Scene anchor: the final meeting that secures Michael Jordan’s partnership with Nike [web:298][web:300][web:305]
+         : 🎯 Timestamp map: market struggle → scouting Jordan → pitch strategy → family negotiation → historic deal
+         : 🧠 THEMATIC LINK: adds a corporate-sports chapter, shifting the timeline from conflict and survival into branding, risk-taking, and cultural impact [web:298][web:302]
+
+
      1986 : Cold War naval aviation
           : Fighter pilot training, carrier operations, and aerial combat
           : U.S. Navy elite pilot culture during the late Cold War
