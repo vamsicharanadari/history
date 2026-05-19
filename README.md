@@ -450,7 +450,7 @@ timeline
           : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
 
      
-     1961 : Congo Crisis / Jadotville
+     1961 : Cold War / Congo Crisis / Jadotville
          : UN peacekeeping under siege in Katanga
          : Outnumbered Irish troops hold a defensive position
          : 🎬 "The Siege of Jadotville" (2016)
@@ -459,6 +459,14 @@ timeline
          : 📍 Scene anchor: the multi-day siege of the Jadotville compound
          : 🎯 Timestamp map: deployment → encirclement → sustained defense → negotiated surrender → recognition after the battle
          : 🧠 THEMATIC LINK: adds a United Nations peacekeeping chapter, contrasting defensive endurance with the expeditionary missions already in the timeline
+         : Nuclear submarine crew fights to prevent reactor catastrophe
+         : Pressure, leadership, and sacrifice in deep water
+         : 🎬 "K-19: The Widowmaker" (2002)
+         : 📽️ SOURCE: Historical submarine film about the Soviet nuclear submarine K-19 on its first patrol [web:18][web:20]
+         : 📽️ SCENES: command transfer, launch and sea trials, reactor failure, improvised repair, crew sacrifice
+         : 📍 Scene anchor: the reactor crisis aboard the submarine at sea [web:17][web:21]
+         : 🎯 Timestamp map: command handoff → patrol begins → reactor emergency → damage control → survival
+         : 🧠 THEMATIC LINK: adds a deep-sea Cold War disaster chapter, shifting from battlefield and covert operations to nuclear brinkmanship [web:17][web:18]
 
 
      1979 : Iran hostage crisis / Tehran exfiltration
