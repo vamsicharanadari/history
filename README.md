@@ -118,6 +118,12 @@ timeline
               : 📍 Scene anchor: the girl in the red coat during the ghetto liquidation and Schindler’s list-making process
               : 🎯 Timestamp map: Nazi occupation → ghetto liquidation → rescue through factory employment → war’s end
               : 🧠 THEMATIC LINK: one of the strongest Holocaust films for showing persecution, survival, and moral transformation under Nazi rule
+              : 🎬 "The Imitation Game" (2014)
+              : 📽️ SOURCE: Biographical WWII drama about Alan Turing and Bletchley Park
+              : 📽️ SCENES: codebreaking operations, Enigma machine analysis, wartime intelligence work, Turing’s breakthrough in decrypting German communications
+              : 📍 Scene anchor: Bletchley Park codebreaking room and the effort to crack Enigma
+              : 🎯 Timestamp map: pre-war cryptography → Enigma破解 effort → intelligence breakthrough → Allied advantage
+              : 🧠 THEMATIC LINK: adds the intelligence and codebreaking side of WWII, complementing the battlefield films already in the chart
 
 
     1940 : France falls
