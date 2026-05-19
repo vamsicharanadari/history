@@ -100,6 +100,18 @@ timeline
          : 🎯 Timestamp map: declaration of outlawry → regrouping → raids → siege → counterattack
          : 🧠 THEMATIC LINK: adds a medieval independence-war chapter, bridging heroic last stands and insurgent warfare
 
+    
+    1310 : Chittor / medieval India
+         : Queen Padmavati is admired by Alauddin Khilji, who attacks Chittor out of obsession
+         : Honor, desire, siege, and sacrifice drive the story
+         : 🎬 "Padmaavat" (2018)
+         : 📽️ SOURCE: Sanjay Leela Bhansali’s historical drama inspired by Malik Muhammad Jayasi’s poem *Padmaavat* [web:886][web:890][web:892]
+         : 📽️ SCENES: marriage in Mewar, Khilji’s court intrigue, spying and siege preparations, battle at Chittor, jauhar
+         : 📍 Scene anchor: Padmavati’s final jauhar after the fall of Chittor [web:889][web:892][web:893]
+         : 🎯 Timestamp map: royal court → Khilji’s obsession → siege → fall of Chittor → jauhar
+         : 🧠 THEMATIC LINK: adds a medieval epic chapter about valor, obsession, and tragic resistance [web:891][web:892][web:893]
+
+
      1720s : Golden Age of Piracy / Caribbean seas
          : A cursed pirate crew, a stolen ship, and a race for lost treasure
          : Swashbuckling adventure, naval action, and supernatural curses
