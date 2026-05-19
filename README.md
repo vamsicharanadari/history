@@ -71,6 +71,12 @@ timeline
          : 📽️ SOURCE: Peaky Blinders Season 5 (BBC)
          : 📽️ SCENES: Oswald Mosley speeches, fascist rally in Birmingham/London staging, Shelby political confrontation scenes
          : 🎬 "Munich: The Edge of War" (Netflix dramatization of pre-WWII diplomacy)
+         : 🎬 "Race" (2016)
+         : 📽️ SOURCE: Biographical sports drama about Jesse Owens at the 1936 Berlin Olympics
+         : 📽️ SCENES: Olympic trials, Ohio State training, Berlin stadium competition, Jesse Owens winning four gold medals under Nazi scrutiny
+         : 📍 Scene anchor: Berlin Olympic track events and Owens’ defiance of Nazi racial ideology
+         : 🎯 Timestamp map: pre-Olympic training → Berlin Games → historic victories → global political impact
+         : 🧠 THEMATIC LINK: adds the Olympics and propaganda angle to the 1930s buildup before WWII
 
 
     1937 : Japan full-scale war with China
