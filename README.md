@@ -112,6 +112,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a medieval epic chapter about valor, obsession, and tragic resistance [web:891][web:892][web:893]
 
 
+    1605 : London / historical political thriller
+         : Robert Catesby and fellow English Catholics plot the Gunpowder Plot against King James I
+         : Religious persecution, conspiracy, and rebellion drive the story
+         : 🎬 "Gunpowder" (2017)
+         : 📽️ SOURCE: Three-part BBC/HBO miniseries starring Kit Harington as Robert Catesby [web:942][web:943][web:944]
+         : 📽️ SCENES: Catholic persecution, secret meetings, priest hiding, recruitment, explosives planning, Parliament plot
+         : 📍 Scene anchor: the failed plan to blow up the Houses of Parliament and kill King James I [web:942][web:946][web:949]
+         : 🎯 Timestamp map: persecution → radicalization → secret plotting → explosives prep → discovery → aftermath
+         : 🧠 THEMATIC LINK: adds a rebellion-and-repression chapter about faith, extremism, and state power [web:947][web:951][web:943]
+
+
      1720s : Golden Age of Piracy / Caribbean seas
          : A cursed pirate crew, a stolen ship, and a race for lost treasure
          : Swashbuckling adventure, naval action, and supernatural curses
