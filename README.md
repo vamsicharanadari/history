@@ -507,6 +507,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a historical true-crime chapter, extending the timeline into systemic violence, exploitation, and federal investigation [web:214][web:219]
 
 
+    1922 : Jazz Age America / literary drama
+         : A mysterious millionaire throws lavish parties while chasing a lost love
+         : Wealth, illusion, class, and the American Dream drive the story
+         : 🎬 "The Great Gatsby" (2013)
+         : 📽️ SOURCE: Baz Luhrmann’s film adaptation of F. Scott Fitzgerald’s 1925 novel
+         : 📽️ SCENES: West Egg parties, Gatsby and Daisy reunion, Manhattan confrontations, car accident, final tragedy
+         : 📍 Scene anchor: Gatsby’s attempt to reclaim the past through Daisy
+         : 🎯 Timestamp map: parties → reunion → conflict → collapse → aftermath
+         : 🧠 THEMATIC LINK: adds a Jazz Age chapter about glamour, class division, and the fragility of the American Dream
+
+
     1923 : Post-war chaos in Europe
           : Germany hyperinflation crisis (1923)
           : Weak governments, instability
@@ -729,6 +740,14 @@ timeline
          : 📍 Scene anchor: Andy and Red’s friendship, which gives the film its emotional center [web:1681][web:1682][web:1683]
          : 🎯 Timestamp map: sentencing → prison life → hope → escape plan → breakout → reunion
          : 🧠 THEMATIC LINK: adds a deeply hopeful prison chapter about patience, resilience, and redemption [web:1684][web:1686][web:1688]
+         : A fast-talking newspaper editor tries to win back his ex-wife and star reporter
+         : Romance, newsroom chaos, and sharp social satire drive the story
+         : 🎬 "His Girl Friday" (1940)
+         : 📽️ SOURCE: Howard Hawks’s film starring Cary Grant and Rosalind Russell [web:38][web:42]
+         : 📽️ SCENES: newsroom banter, engagement breakup, prison interview, execution coverage, final escape plan
+         : 📍 Scene anchor: Hildy Johnson’s tug-of-war between marriage and reporting [web:38][web:42]
+         : 🎯 Timestamp map: breakup → scoop → chase → courtroom/prison pressure → reunion
+         : 🧠 THEMATIC LINK: adds a rapid-fire 1940s chapter about ambition, romance, and the press [web:39][web:42]
 
 
     1941 : Barbarossa + Pearl Harbor
@@ -871,6 +890,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a dark psychological chapter about trauma, denial, and self-deception [web:1314][web:1317][web:1321]
 
 
+    1957 : New York City / courtroom drama
+         : Twelve jurors deliberate a murder case that could send a young man to death
+         : Reason, prejudice, and the burden of doubt drive the story
+         : 🎬 "12 Angry Men" (1957)
+         : 📽️ SOURCE: Sidney Lumet’s courtroom film based on Reginald Rose’s 1954 teleplay [web:30][web:33]
+         : 📽️ SCENES: jury-room deliberation, first vote, evidence challenges, heated arguments, final verdict
+         : 📍 Scene anchor: Juror #8 forcing the others to reconsider the case [web:29][web:30]
+         : 🎯 Timestamp map: vote → debate → doubt → conflict → resolution
+         : 🧠 THEMATIC LINK: adds a legal-drama chapter about justice, bias, and civic responsibility [web:29][web:33]
+
+
      1960 : Postwar America / coming-of-age drama
          : A young aspiring filmmaker navigates family turmoil and discovers his artistic voice
          : Memory, family tension, and the power of movies shape the story
@@ -980,6 +1010,14 @@ timeline
          : 📍 Scene anchor: Beth’s final showdown with Borgov in Moscow and her Queen’s Gambit finish [web:603][web:604][web:606]
          : 🎯 Timestamp map: orphanage → first tournaments → breakthrough → collapse → recovery → Moscow victory
          : 🧠 THEMATIC LINK: adds a prestige character-drama chapter about genius, addiction, and self-mastery [web:589][web:598][web:611]
+         : A mysterious monolith appears and pushes human evolution forward
+         : Human ambition, artificial intelligence, and transcendence drive the story
+         : 🎬 "2001: A Space Odyssey" (1968)
+         : 📽️ SOURCE: Stanley Kubrick’s landmark sci-fi film co-written with Arthur C. Clarke [web:18][web:19][web:20]
+         : 📽️ SCENES: prehistoric opening, Moon monolith, Discovery One mission, HAL 9000 conflict, star gate sequence
+         : 📍 Scene anchor: the showdown between Dave Bowman and HAL 9000 [web:18][web:19]
+         : 🎯 Timestamp map: evolution → mission → malfunction → confrontation → transcendence
+         : 🧠 THEMATIC LINK: adds a visionary space-age chapter about evolution, technology, and the unknown [web:18][web:19]
 
 
      1969 : Chicago / FBI infiltration
