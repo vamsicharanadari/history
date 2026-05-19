@@ -664,6 +664,14 @@ timeline
               : 📍 Scene anchor: the final Navy SEAL raid on the Abbottabad compound
               : 🎯 Timestamp map: post-9/11 intelligence hunt → lead analysis → compound discovery → bin Laden raid
               : 🧠 THEMATIC LINK: shifts the timeline into the 21st century, showing modern counterterrorism and intelligence warfare
+               : A teenager turns sim-racing skill into a real motorsport career
+               : Underdog ambition, training, and speed define the story
+               : 🎬 "Gran Turismo" (2023)
+               : 📽️ SOURCE: Biographical sports drama based on Jann Mardenborough’s rise from gamer to professional racer [web:190][web:191]
+               : 📽️ SCENES: GT Academy selection, simulator competition, track training, first race, major crash and comeback
+               : 📍 Scene anchor: the Nürburgring crash and the racing breakthrough that follows [web:190][web:193]
+               : 🎯 Timestamp map: game mastery → academy selection → training → breakthrough → setback and return
+               : 🧠 THEMATIC LINK: adds a modern motorsport chapter, shifting the timeline from conflict-driven stories to competition, discipline, and high-speed risk [web:190][web:194]
 
      
      2012 : Benghazi / diplomatic compound attack
