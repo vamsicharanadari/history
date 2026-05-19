@@ -2,14 +2,42 @@
 
 ```mermaid
 timeline
-    title WWI → WWII (1918–1945) with Episode Timestamp Map
+    title WWI → WWII (1914–1945) with Episode Timestamp Map
+
+    1914 : World War I begins
+         : Assassination of Archduke Franz Ferdinand
+         : Europe mobilizes for war
+
+
+     1915 : Trench warfare deepens
+          : Poison gas and attrition warfare emerge
+          : Massive casualties on the Western Front
+
+     
+     1916 : Somme and Verdun
+          : Some of the war’s bloodiest battles
+          : Industrial-scale slaughter defines the conflict
+
+
+     1917 : War weariness grows
+          : Russian Revolution begins
+          : America enters the war
+          : 🎬 "1917" (2019)
+          : 📽️ SOURCE: Sam Mendes WWI war film set on the Western Front in April 1917
+          : 📽️ SCENES: trench briefing, no-man’s-land crossing, abandoned German trenches, collapsed village run, final sprint to deliver the message
+          : 📍 Scene anchor: the one-take-style mission across enemy lines to stop a doomed attack
+          : 🎯 Timestamp map: battlefield briefing → perilous journey → message delivery → attack called off
+          : 🧠 THEMATIC LINK: adds the trench-level WWI perspective that begins the whole historical arc in your chart
+
+     
+     1918 : WWI ends
+          : Armistice signed
+          : Collapse of empires and postwar transition begins
 
 
     1918–1919 : End of WWI / Treaty of Versailles
               : Europe reshaped, empires collapse
               : Germany punished, instability begins
-              : 🎬 "They Shall Not Grow Old" (archival WWI restoration footage by Peter Jackson)
-              : 🎬 "War Horse" (Spielberg WWI dramatization)
               : 🧠 Peaky Blinders S1 setup → WWI veterans return, trauma, Birmingham gang rise
               : 📽️ SOURCE: Peaky Blinders (BBC, Season 1 episodes 1–3)
               : 📽️ SCENES: Thomas Shelby trench flashbacks, PTSD auditory hallucinations, post-war factory labor depiction
@@ -18,7 +46,6 @@ timeline
     1920–1923 : Post-war chaos in Europe
               : Germany hyperinflation crisis (1923)
               : Weak governments, instability
-              : 🎬 "Cabaret" (1972 film – Weimar Germany nightlife/political decay)
               : 🧠 Peaky Blinders S1–S2 → black market economy, IRA conflict
               : 📽️ SOURCE: Peaky Blinders (S1–S2)
               : 📽️ SCENES: Shelby betting shop operations, street gang shootouts, IRA assassination plotline
@@ -27,7 +54,6 @@ timeline
     1924–1929 : Fragile peace period
               : League of Nations weak
               : Extremism rises slowly
-              : 🎬 "The Great Dictator" (Chaplin satire of fascism rise)
               : 🧠 Peaky Blinders S2–S3 → business + political infiltration
               : 📽️ SOURCE: Peaky Blinders (S2–S3)
               : 📽️ SCENES: Shelby Company Limited expansion, London political bribery meetings, aristocratic power dealings
@@ -36,7 +62,6 @@ timeline
     1929 : Great Depression begins
          : Global economic collapse
          : Extremism rises worldwide
-         : 🎬 "Cinderella Man" (Depression-era boxing struggle)
          : 🧠 Peaky Blinders S3–S4 → industrial empire building
          : 📽️ SOURCE: Peaky Blinders (S3–S4)
          : 📽️ SCENES: factory strikes, Alfie Solomons negotiations, financial manipulation arcs
@@ -45,23 +70,16 @@ timeline
     1931 : Japan invades Manchuria
          : League of Nations fails
          : Collapse of global order begins
-         : 📽️ SOURCE: Historical documentary reconstructions
-         : 📽️ SCENES: Japanese Kwantung Army invasion footage, civilian displacement imagery
+         : Japanese Kwantung Army invasion footage, civilian displacement imagery
 
 
     1933 : Hitler becomes Chancellor
          : Nazi consolidation begins
          : Germany rearmament starts
-         : 🎬 "Downfall" (2004)
-         : 🎬 "Hitler: The Rise of Evil" (2003)
-         : 📽️ SOURCE: Archival Nazi Germany footage + historical reenactments
-         : 📽️ SCENES: Reichstag fire aftermath reconstructions, Berlin rallies
 
 
     1935 : Italy invades Ethiopia
          : Fascist expansion begins
-         : 📽️ SOURCE: Historical newsreels / archival footage
-         : 📽️ SCENES: Italian air raids, Ethiopian resistance collapse imagery
 
 
     1936 : Germany remilitarizes Rhineland
@@ -70,7 +88,6 @@ timeline
          : 🧠 Peaky Blinders S4–S5 → Mosley fascist rise in Britain
          : 📽️ SOURCE: Peaky Blinders Season 5 (BBC)
          : 📽️ SCENES: Oswald Mosley speeches, fascist rally in Birmingham/London staging, Shelby political confrontation scenes
-         : 🎬 "Munich: The Edge of War" (Netflix dramatization of pre-WWII diplomacy)
          : 🎬 "Race" (2016)
          : 📽️ SOURCE: Biographical sports drama about Jesse Owens at the 1936 Berlin Olympics
          : 📽️ SCENES: Olympic trials, Ohio State training, Berlin stadium competition, Jesse Owens winning four gold medals under Nazi scrutiny
