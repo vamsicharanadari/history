@@ -948,6 +948,14 @@ timeline
          : 📍 Scene anchor: the successful Mars Orbiter Mission launch, which made India the first country to reach Mars on its first attempt [web:664][web:666][web:668]
          : 🎯 Timestamp map: failure → redesign → teamwork → launch → Mars orbit success
          : 🧠 THEMATIC LINK: adds a science-and-service chapter about national ambition, problem-solving, and collective achievement [web:664][web:670][web:669]   
+         : Murad Ahmed grows from a slum student into a rapper finding his voice
+         : Ambition, class struggle, and self-expression drive the story
+         : 🎬 "Gully Boy" (2019)
+         : 📽️ SOURCE: Zoya Akhtar’s Hindi musical drama inspired by street rappers DIVINE and Naezy [web:732][web:733][web:734]
+         : 📽️ SCENES: Dharavi home life, first rap discovery, MC Sher mentorship, battle rap sets, family conflict, big-stage breakthrough
+         : 📍 Scene anchor: Murad’s rise after seeing MC Sher rap and deciding to pursue hip-hop [web:732][web:733][web:736]
+         : 🎯 Timestamp map: home pressure → rap discovery → mentorship → battle circuits → public debut → recognition
+         : 🧠 THEMATIC LINK: adds an urban music-drama chapter about aspiration, identity, and breaking social barriers [web:732][web:738]
 
 
      2011 : Post-9/11 manhunt
