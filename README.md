@@ -176,6 +176,12 @@ timeline
          : Turning point begins
          : 📽️ SOURCE: WWII documentaries
          : 📽️ SCENES: Stalingrad ruins combat reenactments, Midway carrier explosions archival footage
+         : 🎬 "Casablanca" (1942)
+         : 📽️ SOURCE: Classic wartime romance set in Vichy-controlled Casablanca, French Morocco
+         : 📽️ SCENES: Rick’s Café, refugee transit hub, letters of transit plot, Ugarte arrest, airport farewell
+         : 📍 Scene anchor: the final airport scene and Rick’s choice to help Ilsa and Laszlo escape
+         : 🎯 Timestamp map: occupied Europe → refugee bottleneck → resistance pressure → escape to Lisbon
+         : 🧠 THEMATIC LINK: adds the moral and diplomatic side of WWII, with neutrality, sacrifice, and resistance
 
 
     1943 : Axis weakens
