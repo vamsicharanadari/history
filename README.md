@@ -3,6 +3,16 @@
 ```mermaid
 timeline
     title History
+     Treta Yuga : Ancient India / Ramayana
+         : Exiled prince rescues his wife from a demon king
+         : Dharma, devotion, and epic warfare drive the story
+         : 🎬 "Adipurush" (2023)
+         : 📽️ SOURCE: Mythological action film inspired by the Ramayana, following Raghav’s exile and quest to rescue Janaki [web:204][web:207]
+         : 📽️ SCENES: forest exile, Sita abduction, Hanuman alliance, bridge to Lanka, final battle [web:206][web:208]
+         : 📍 Scene anchor: the Lanka war and the rescue of Janaki [web:206][web:209]
+         : 🎯 Timestamp map: exile → abduction → alliance → bridge crossing → climactic battle
+         : 🧠 THEMATIC LINK: adds a grand mythological-war chapter, bringing divine heroism and ancient epic conflict into the timeline [web:204][web:206]
+
      1193 BCE : Bronze Age / Siege of Troy
          : Greek coalition besieges the city of Troy
          : Heroism, honor, and fate drive the conflict
