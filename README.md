@@ -551,7 +551,7 @@ timeline
          : 🧠 THEMATIC LINK: adds a contemporary espionage-and-counterterror chapter, continuing the timeline’s move from war films into intelligence operations [web:62][web:71]
 
      
-     2003–2011 : Iraq War era
+     2003 : Iraq War era
                : Urban combat, insurgency, and roadside bomb threats dominate
                : U.S. forces conduct counterinsurgency operations in Baghdad
                : 🎬 "The Hurt Locker" (2008)
@@ -574,6 +574,17 @@ timeline
                : 📍 Scene anchor: the convoy escort and village defense under fire
                : 🎯 Timestamp map: deployment → patrol → repair mission → ambush → extraction
                : 🧠 THEMATIC LINK: adds an Iraq War occupation chapter, shifting the timeline from conventional battle to stabilization and counterinsurgency
+
+     
+     2009 : South Asian covert counterterrorism
+         : An undercover Indian intelligence agent rises through Karachi’s criminal underworld
+         : Loyalty, vengeance, and long-term infiltration drive the sequel
+         : 🎬 "Dhurandhar: The Revenge" (2026)
+         : 📽️ SOURCE: Spy action-thriller sequel to Dhurandhar, following Jaskirat Singh Rangi under the alias Hamza Ali Mazari [web:64][web:65]
+         : 📽️ SCENES: identity shift, Karachi gang ascent, political manipulation, pursuit of key operators, confrontation with the 26/11 network [web:76][web:65]
+         : 📍 Scene anchor: the undercover rise inside Karachi’s criminal and political web [web:64][web:76]
+         : 🎯 Timestamp map: origin trauma → intelligence recruitment → infiltration → underworld ascent → revenge campaign
+         : 🧠 THEMATIC LINK: continues the espionage-and-counterterror chapter, extending the timeline deeper into long-form covert operations [web:64][web:77]
 
 
      2011 : Post-9/11 manhunt
