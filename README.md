@@ -449,6 +449,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a United Nations peacekeeping chapter, contrasting defensive endurance with the expeditionary missions already in the timeline
 
 
+     1979 : Iran hostage crisis / Tehran exfiltration
+         : CIA covert rescue using a fake film production cover
+         : Six U.S. diplomats escape from Tehran with Canadian help
+         : 🎬 "Argo" (2012)
+         : 📽️ SOURCE: Political thriller based on the rescue of six U.S. diplomats during the Iran hostage crisis [web:1][web:2]
+         : 📽️ SCENES: embassy overrun, refuge with Canadian diplomats, fake movie setup, airport escape, final departure
+         : 📍 Scene anchor: the airport sequence and disguised extraction of the six Americans [web:4][web:10]
+         : 🎯 Timestamp map: embassy fall → hiding in Tehran → cover story construction → airport tension → escape
+         : 🧠 THEMATIC LINK: adds a covert intelligence chapter to the timeline, shifting from open military action to deception and exfiltration [web:2][web:10]
+
+
      1986 : Cold War naval aviation
           : Fighter pilot training, carrier operations, and aerial combat
           : U.S. Navy elite pilot culture during the late Cold War
