@@ -231,6 +231,39 @@ timeline
                : 🧠 THEMATIC LINK: expands the chart backward into early 19th-century European warfare and the rise of modern empire
 
 
+     1881 : Victorian London / detective fiction
+         : A brilliant consulting detective solves baffling crimes with his loyal companion
+         : Logic, observation, and iconic partnership define the stories
+         : 🎬 "Sherlock Holmes" series
+         : 📽️ SOURCE: Sir Arthur Conan Doyle’s Sherlock Holmes stories and later film/TV adaptations [web:358][web:359]
+         : 📽️ SCENES: Baker Street introductions, clue deduction, villain confrontations, chase sequences, final reveals
+         : 📍 Scene anchor: Sherlock and Watson’s first collaboration at 221B Baker Street [web:358][web:360]
+         : 🎯 Timestamp map: case begins → clue trail → deduction → confrontation → resolution
+         : 🧠 THEMATIC LINK: adds a foundational detective-fiction chapter, expanding the timeline into Victorian mystery and classic partnership crime-solving [web:358][web:363]
+
+
+     1888 : Victorian London / detective adventure
+         : A teenage sleuth searches for her missing mother and uncovers a larger conspiracy
+         : Family, independence, and social reform drive the mystery
+         : 🎬 "Enola Holmes" (2020)
+         : 📽️ SOURCE: Netflix mystery film starring Millie Bobby Brown as Sherlock Holmes’s younger sister [web:345][web:346]
+         : 📽️ SCENES: mother’s disappearance, train journey to London, runaway lord pursuit, coded clues, final confrontation
+         : 📍 Scene anchor: Enola’s search for her mother and the plot around the runaway lord [web:345][web:347]
+         : 🎯 Timestamp map: disappearance → London arrival → clue trail → conspiracy reveal → resolution
+         : 🧠 THEMATIC LINK: adds a youthful detective chapter, broadening the timeline from politics and war into Victorian sleuthing and self-discovery [web:345][web:348]
+
+
+     1893 : London / detective mystery
+         : Enola Holmes opens her own agency and takes on a factory-girl case
+         : Industrial exploitation, class tension, and family wit drive the investigation
+         : 🎬 "Enola Holmes 2" (2022)
+         : 📽️ SOURCE: Netflix mystery sequel in which Enola investigates a missing match factory worker and uncovers a larger conspiracy [web:335][web:337]
+         : 📽️ SCENES: agency opening, match factory visit, hidden codes, theatre clue trail, final factory showdown
+         : 📍 Scene anchor: the match factory conspiracy and the rescue of the workers [web:335][web:336]
+         : 🎯 Timestamp map: new agency → missing person case → factory investigation → conspiracy reveal → resolution
+         : 🧠 THEMATIC LINK: adds a Victorian detective chapter, shifting the timeline from grand historical conflict to sleuthing, labor injustice, and amateur investigation [web:335][web:339]
+
+
     1914 : World War I begins
          : Assassination of Archduke Franz Ferdinand
          : Europe mobilizes for war
