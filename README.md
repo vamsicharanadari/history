@@ -659,6 +659,17 @@ timeline
           : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
 
 
+     1970 : Kolkata / reincarnation drama
+         : A filmmaker discovers a connection to his past life as a social reformer
+         : Reincarnation, love, and resistance against injustice drive the story
+         : 🎬 "Shyam Singha Roy" (2021)
+         : 📽️ SOURCE: Telugu period romantic drama about a director who uncovers visions of his previous life in 1970s Kolkata [web:471][web:472]
+         : 📽️ SCENES: plagiarism accusation, past-life visions, Kolkata reformer arc, devadasi storyline, courtroom and emotional climax [web:474][web:477]
+         : 📍 Scene anchor: the 1970s Kolkata reformer storyline and the past-life reveal [web:471][web:474]
+         : 🎯 Timestamp map: present-day conflict → visions return → historical backstory → love and resistance → resolution
+         : 🧠 THEMATIC LINK: adds a reincarnation-and-social-reform chapter, blending period drama with spiritual identity and artistic self-discovery [web:471][web:477]
+
+
      1972 : Andes / survival disaster
          : A rugby team fights to survive after a plane crash in the mountains
          : Extreme cold, shared sacrifice, and endurance define the struggle
