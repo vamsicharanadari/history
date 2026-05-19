@@ -927,6 +927,14 @@ timeline
          : 📍 Scene anchor: Richard’s 78-page plan to build champions before the girls were born [web:541][web:544]
          : 🎯 Timestamp map: childhood training → tournament pressure → coaching conflicts → pro breakthrough
          : 🧠 THEMATIC LINK: adds an inspirational sports-biopic chapter focused on ambition, discipline, and family legacy [web:543][web:550]
+         : DSP Theeran investigates a series of brutal dacoity-murders across multiple states
+         : Duty, grit, and true-crime procedural tension drive the story
+         : 🎬 "Khakee" / "Theeran Adhigaaram Ondru" (2017)
+         : 📽️ SOURCE: H. Vinoth’s Tamil action-crime thriller based on real cases involving the Bawaria gang and police operations [web:909][web:910][web:911]
+         : 📽️ SCENES: transfer to new posting, murder file discovery, highway ambushes, Rajasthan pursuit, gang hideouts, final arrests
+         : 📍 Scene anchor: Theeran’s investigation into the gang’s killing pattern and the cross-state manhunt [web:910][web:911][web:914]
+         : 🎯 Timestamp map: transfer → case opened → field pursuit → Rajasthan chase → confrontation → resolution
+         : 🧠 THEMATIC LINK: adds a hard-edged police-procedural chapter about persistence, teamwork, and justice [web:910][web:912][web:915]
 
 
      1993 : Mumbai underworld / gangster revenge
