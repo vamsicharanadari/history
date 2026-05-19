@@ -825,6 +825,14 @@ timeline
           : 📍 Scene anchor: the training dogfights and the final aerial showdown
           : 🎯 Timestamp map: carrier operations → elite flight school → rivalry and training → combat mission
           : 🧠 THEMATIC LINK: adds Cold War-era military aviation and the culture of fighter pilot competition
+         : Reactor 4 explodes at Chernobyl, triggering a race to contain radiation and evacuate civilians
+         : Denial, sacrifice, and human cost drive the story
+         : 🎬 "Chernobyl" (2019)
+         : 📽️ SOURCE: HBO’s historical drama about the 26 April 1986 reactor accident and its aftermath [web:711][web:712][web:713]
+         : 📽️ SCENES: explosion, fire response, evacuation, hospital treatment, cleanup, hearings, exclusion zone
+         : 📍 Scene anchor: the Unit 4 explosion and the immediate response in Pripyat and Moscow [web:712][web:714][web:715]
+         : 🎯 Timestamp map: test failure → explosion → evacuation → cleanup → investigations → long-term consequences
+         : 🧠 THEMATIC LINK: adds a disaster-history chapter about catastrophic systems failure, courage, and consequences [web:711][web:716][web:717]
 
 
      1990 : Texas / professional wrestling family saga
