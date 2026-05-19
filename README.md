@@ -439,14 +439,20 @@ timeline
 
      
      2003–2011 : Iraq War era
-              : Urban combat, insurgency, and roadside bomb threats dominate
-              : U.S. forces conduct counterinsurgency operations in Baghdad
-              : 🎬 "The Hurt Locker" (2008)
-              : 📽️ SOURCE: Kathryn Bigelow Iraq War film about an EOD bomb disposal unit in Baghdad
-              : 📽️ SCENES: roadside bomb disposal, sniper threats, market tension, civilian danger, final re-deployment
-              : 📍 Scene anchor: the bomb-defusal sequences and Staff Sgt. William James’ risky field decisions
-              : 🎯 Timestamp map: deployment → bomb disposal missions → psychological strain → redeployment
-              : 🧠 THEMATIC LINK: expands the chart into the Iraq War era, showing modern urban combat and the pressure of improvised explosive warfare
+               : Urban combat, insurgency, and roadside bomb threats dominate
+               : U.S. forces conduct counterinsurgency operations in Baghdad
+               : 🎬 "The Hurt Locker" (2008)
+               : 📽️ SOURCE: Kathryn Bigelow Iraq War film about an EOD bomb disposal unit in Baghdad
+               : 📽️ SCENES: roadside bomb disposal, sniper threats, market tension, civilian danger, final re-deployment
+               : 📍 Scene anchor: the bomb-defusal sequences and Staff Sgt. William James’ risky field decisions
+               : 🎯 Timestamp map: deployment → bomb disposal missions → psychological strain → redeployment
+               : 🧠 THEMATIC LINK: expands the chart into the Iraq War era, showing modern urban combat and the pressure of improvised explosive warfare
+               : 🎬 "American Sniper" (2014)
+               : 📽️ SOURCE: Clint Eastwood biographical war drama based on Chris Kyle’s memoir
+               : 📽️ SCENES: SEAL training, rooftop overwatch, urban firefights in Iraq, family-home contrast, postwar struggle
+               : 📍 Scene anchor: the rooftop sniper sequences and Kyle’s repeated deployments
+               : 🎯 Timestamp map: enlistment → SEAL training → Iraq deployments → homecoming and aftermath
+               : 🧠 THEMATIC LINK: adds a soldier-centered Iraq War perspective focused on marksmanship, duty, and the psychological cost of repeated deployment
 
 
      2011 : Post-9/11 manhunt
