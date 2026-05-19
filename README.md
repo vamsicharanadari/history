@@ -711,6 +711,14 @@ timeline
          : 📍 Scene anchor: the shift from the 1968 convention protests to the 1969–70 federal trial [web:613][web:614][web:617]
          : 🎯 Timestamp map: protest → indictment → trial → contempt fights → verdict → appeal
          : 🧠 THEMATIC LINK: adds a civil-rights-and-dissent chapter about activism, state response, and legal theater [web:613][web:620]
+         : Frank Sheeran rises from truck driver to hitman, becomes close to Jimmy Hoffa, and later reflects on the cost
+         : Loyalty, corruption, and regret drive the story
+         : 🎬 "The Irishman" (2019)
+         : 📽️ SOURCE: Martin Scorsese’s crime epic about Frank Sheeran, Russell Bufalino, and Jimmy Hoffa [web:627][web:631][web:633]
+         : 📽️ SCENES: postwar trucking job, first mob contact, union power plays, Hoffa friendship, prison years, nursing home framing device
+         : 📍 Scene anchor: Frank’s alleged role in Jimmy Hoffa’s disappearance [web:627][web:629][web:635]
+         : 🎯 Timestamp map: veteran years → mob recruitment → union politics → Hoffa conflict → disappearance → old-age reflection
+         : 🧠 THEMATIC LINK: adds a long-form crime tragedy chapter about aging, power, and irreversible choices [web:628][web:632][web:634]
 
 
      1972 : Andes / survival disaster
