@@ -24,6 +24,15 @@ timeline
          : 🎯 Timestamp map: training → diplomatic refusal → marching to battle → clash at the pass → Spartan sacrifice
          : 🧠 THEMATIC LINK: adds an ancient heroic-warfare chapter, contrasting disciplined infantry defense with the modern and covert conflicts already in the timeline
 
+     1304 : Scottish Wars of Independence
+         : Robert the Bruce fights to reclaim Scotland
+         : Guerrilla resistance, loyalty, and survival against English power
+         : 🎬 "Outlaw King" (2018)
+         : 📽️ SOURCE: Historical war drama about Robert the Bruce’s campaign after being declared an outlaw
+         : 📽️ SCENES: oath and coronation, retreat into the countryside, surprise attacks, castle defense, final charge
+         : 📍 Scene anchor: the guerrilla campaign and the climactic battlefield charge
+         : 🎯 Timestamp map: declaration of outlawry → regrouping → raids → siege → counterattack
+         : 🧠 THEMATIC LINK: adds a medieval independence-war chapter, bridging heroic last stands and insurgent warfare
 
 
      1770 : Boston Massacre and revolutionary tension
