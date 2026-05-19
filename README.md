@@ -567,6 +567,17 @@ timeline
           : 🧠 THEMATIC LINK: adds Cold War-era military aviation and the culture of fighter pilot competition
 
 
+     1990 : Texas / professional wrestling family saga
+         : The Von Erich brothers chase glory under their father’s shadow
+         : Fame, grief, and family tragedy define the rise and fall
+         : 🎬 "The Iron Claw" (2023)
+         : 📽️ SOURCE: Biographical sports drama about the Von Erich family, centered on Kevin, David, Kerry, and Mike [web:152][web:157]
+         : 📽️ SCENES: wrestling training, Sportatorium matches, brotherly victories, devastating injuries, family collapse
+         : 📍 Scene anchor: the peak-and-fall arc of the Von Erich brothers in the ring [web:152][web:158]
+         : 🎯 Timestamp map: early success → title pursuit → injury cascade → tragedy → aftermath
+         : 🧠 THEMATIC LINK: adds a tragic sports-drama chapter, shifting the timeline from war and conflict into family legacy, ambition, and loss [web:152][web:157]
+
+
      1993 : Mumbai underworld / gangster revenge
          : A feared mob boss returns after a decade in exile
          : Criminal power, loyalty, and vengeance drive the conflict
