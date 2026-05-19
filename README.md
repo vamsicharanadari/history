@@ -697,6 +697,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a survival-against-nature chapter, shifting from human conflict to extreme environmental ordeal [web:170][web:176]
 
 
+     1975 : Fictional France / anthology comedy-drama
+         : The final issue of a magazine unfolds through three main stories and an obituary
+         : Journalism, art, politics, and whimsy drive the story
+         : 🎬 "The French Dispatch" (2021)
+         : 📽️ SOURCE: Wes Anderson’s anthology film about the last issue of The French Dispatch magazine [web:551][web:552][web:556]
+         : 📽️ SCENES: prisoned painter, student protests, gourmet kidnapping, editor’s obituary, final magazine farewell
+         : 📍 Scene anchor: the death of editor Arthur Howitzer Jr. and the last issue that follows [web:551][web:553]
+         : 🎯 Timestamp map: prologue → three articles → obituary → closing farewell
+         : 🧠 THEMATIC LINK: adds a stylized anthology chapter about journalism, memory, and storytelling [web:551][web:555]
+
+
      1979 : Iran hostage crisis / Tehran exfiltration
          : CIA covert rescue using a fake film production cover
          : Six U.S. diplomats escape from Tehran with Canadian help
