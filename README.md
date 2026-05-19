@@ -106,6 +106,12 @@ timeline
          : 🎬 "Darkest Hour" (2017)
          : 📽️ SOURCE: Archival footage
          : 📽️ SCENES: Hitler entering Austria, Chamberlain “peace for our time” speech footage
+         : 🎬 "Indiana Jones and the Last Crusade" (1989)
+         : 📽️ SOURCE: Steven Spielberg adventure film set in 1938
+         : 📽️ SCENES: Venice library search, Brotherhood catacombs, Brunwald Castle rescue, tank chase, Grail temple finale
+         : 📍 Scene anchor: the tank chase and the final Grail trial
+         : 🎯 Timestamp map: father-son quest → Nazi chase → desert pursuit → Holy Grail showdown
+         : 🧠 THEMATIC LINK: fits the late-1930s Nazi buildup, turning the era into an adventure quest like Raiders of the Lost Ark
 
 
     Early 1939 : Germany occupies Czechoslovakia
