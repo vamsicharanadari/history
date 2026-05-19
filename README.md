@@ -911,6 +911,14 @@ timeline
          : 📍 Scene anchor: the Unit 4 explosion and the immediate response in Pripyat and Moscow [web:712][web:714][web:715]
          : 🎯 Timestamp map: test failure → explosion → evacuation → cleanup → investigations → long-term consequences
          : 🧠 THEMATIC LINK: adds a disaster-history chapter about catastrophic systems failure, courage, and consequences [web:711][web:716][web:717]
+         : Barry Seal, a pilot, gets pulled into CIA missions, smuggling, and the Medellín cartel
+         : Greed, risk, and double-crosses drive the story
+         : 🎬 "American Made" (2017)
+         : 📽️ SOURCE: Doug Liman’s film based on Barry Seal’s real-life exploits during the Iran-Contra era [web:953][web:954][web:955]
+         : 📽️ SCENES: airline flights, CIA recruitment, cartel runs, money drops, prison tradeoffs, media fallout
+         : 📍 Scene anchor: Barry Seal’s shift from commercial pilot to covert courier and drug runner [web:953][web:956][web:960]
+         : 🎯 Timestamp map: pilot job → CIA contact → smuggling expansion → cartel entanglement → fallout
+         : 🧠 THEMATIC LINK: adds a fast-moving black-comedy crime chapter about opportunism, chaos, and real-world scandal [web:954][web:958][web:961]
 
 
      1990 : Texas / professional wrestling family saga
