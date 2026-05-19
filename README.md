@@ -182,3 +182,9 @@ timeline
          : 📍 Scene anchor: Desmond Doss lowering wounded soldiers one-by-one (“Lord, help me get one more”)
          : 🎯 Timestamp map: ridge assault → medics overwhelmed → Doss’ lone rescue mission
          : 🧠 THEMATIC LINK: contrasts armed combat with a conscientious objector saving lives without firing a weapon
+         : 🎬 "Inglourious Basterds" (2009)
+         : 📽️ SOURCE: Quentin Tarantino’s alternate-history WWII film
+         : 📽️ SCENES: Nazi-occupied France, undercover resistance operation, theater climax, explosive regime collapse
+         : 📍 Scene anchor: the cinema finale and Operation Kino infiltration
+         : 🎯 Timestamp map: resistance planning → undercover tension → climactic takeover
+         : 🧠 THEMATIC LINK: fictional counterfactual to WWII’s end, contrasting with the real historical collapse shown in Band of Brothers
