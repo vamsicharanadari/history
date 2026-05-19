@@ -142,7 +142,7 @@ timeline
          : 📽️ SCENES: political defeat, family strain, transition of power
          : 📍 Scene anchor: Adams’ electoral loss
          : 🎯 Timestamp map: final term → election defeat → peaceful transfer → new republic [web:245][web:252]
-         
+
 
      1801 : Yorkshire moors / Gothic drama
          : A newcomer uncovers the bitter history of Wuthering Heights
@@ -663,3 +663,11 @@ timeline
          : 📍 Scene anchor: the low-altitude canyon mission and the F-14 escape
          : 🎯 Timestamp map: test pilot program → training refresher → mission planning → strike run and return
          : 🧠 THEMATIC LINK: extends the Cold War aviation thread into the modern era, blending legacy fighter culture with next-generation combat flying
+         : A fiery villager clashes with landowners and a forest officer
+         : Spiritual possession, justice, and ancestral tradition drive the conflict
+         : 🎬 "Kantara" (2022)
+         : 📽️ SOURCE: Kannada-language action drama set in a village where folklore, faith, and land disputes collide [web:97][web:98]
+         : 📽️ SCENES: village rituals, forest confrontation, land dispute escalation, possession sequence, final reckoning
+         : 📍 Scene anchor: the ritual possession climax and the confrontation over the forest land [web:97][web:102]
+         : 🎯 Timestamp map: village life → land conflict → spiritual escalation → possession → resolution
+         : 🧠 THEMATIC LINK: adds a mythic rural chapter, blending folklore-driven conflict with the larger war-and-struggle timeline [web:97][web:98]
