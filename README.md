@@ -778,6 +778,26 @@ timeline
          : 🧠 THEMATIC LINK: adds a sharp political-crime chapter about racism, disguise, and real-world extremism [web:860][web:864][web:865]
 
 
+    1971 : Kashmir → Pakistan / espionage drama
+         : Sehmat Khan is trained as an Indian spy and marries into a Pakistani military family
+         : Duty, sacrifice, fear, and patriotism drive the story
+         : 🎬 "Raazi" (2018)
+         : 📽️ SOURCE: Meghna Gulzar’s spy thriller based on Harinder Sikka’s novel *Calling Sehmat* [web:868][web:871][web:876]
+         : 📽️ SCENES: college life interrupted, spy recruitment, training, marriage into the Syed family, intel gathering, emotional fallout
+         : 📍 Scene anchor: Sehmat’s covert marriage into a Pakistani army household to gather intelligence for India [web:868][web:871][web:873]
+         : 🎯 Timestamp map: normal life → recruitment → training → infiltration → missions → consequences
+         : 🧠 THEMATIC LINK: adds a wartime espionage chapter about loyalty, identity, and sacrifice [web:871][web:872][web:875]
+         : Bay of Bengal / underwater war thriller
+         : An Indian submarine crew tracks and stops PNS Ghazi from attacking INS Vikrant
+         : Tension, patriotism, and submarine warfare drive the story
+         : 🎬 "The Ghazi Attack" / "Ghazi" (2017)
+         : 📽️ SOURCE: Sankalp Reddy’s war film inspired by the 1971 sinking of PNS Ghazi [web:879][web:880][web:881]
+         : 📽️ SCENES: briefing, silent sonar tension, underwater cat-and-mouse pursuit, damage control, final sinking, aftermath
+         : 📍 Scene anchor: the Indian submarine S21’s confrontation with the Pakistani submarine Ghazi [web:879][web:883][web:884]
+         : 🎯 Timestamp map: tension rises → submarine patrol → contact → attack → explosion/sinking → survival
+         : 🧠 THEMATIC LINK: adds a naval-warfare chapter about secrecy, command under pressure, and wartime heroism [web:879][web:882][web:883]
+
+
      1972 : Andes / survival disaster
          : A rugby team fights to survive after a plane crash in the mountains
          : Extreme cold, shared sacrifice, and endurance define the struggle
