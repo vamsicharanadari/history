@@ -33,6 +33,12 @@ timeline
      1918 : WWI ends
           : Armistice signed
           : Collapse of empires and postwar transition begins
+          : 🎬 "All Quiet on the Western Front" (2022)
+          : 📽️ SOURCE: WWI anti-war drama based on Erich Maria Remarque’s novel
+          : 📽️ SCENES: trench assaults, shell-crater survival, mud-soaked no-man’s-land, battlefield exhaustion, final senseless loss
+          : 📍 Scene anchor: the trench warfare sequences and Paul Bäumer’s front-line experience
+          : 🎯 Timestamp map: enlistment → trench combat → failed offensives → devastating collapse
+          : 🧠 THEMATIC LINK: adds the starkest anti-war perspective in the WWI section, complementing 1917 and They Shall Not Grow Old
 
 
     1918–1919 : End of WWI / Treaty of Versailles
