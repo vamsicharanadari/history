@@ -569,6 +569,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a modern urban siege chapter, extending the timeline into asymmetric warfare and diplomatic crisis response
 
 
+     2015 : Drone warfare / counterterrorism
+         : Remote surveillance turns into a high-stakes strike decision
+         : Civilian risk, ethics, and chain-of-command tension shape the mission
+         : 🎬 "Eye in the Sky" (2015)
+         : 📽️ SOURCE: Military thriller centered on a drone operation and the debate over collateral damage
+         : 📽️ SCENES: surveillance setup, target confirmation, legal review, strike authorization, missile launch aftermath
+         : 📍 Scene anchor: the final strike decision under civilian-risk pressure
+         : 🎯 Timestamp map: surveillance → target tracking → authorization debate → launch → consequences
+         : 🧠 THEMATIC LINK: adds a modern drone-and-command chapter, shifting the timeline toward remote warfare and the moral cost of precision strikes
+
+
      2019 : South America / borderlands raid
          : Former special operators attempt to steal cartel money
          : Mission spirals into betrayal, pursuit, and survival
