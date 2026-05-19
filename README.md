@@ -4,7 +4,7 @@
 timeline
   title Master Timeline
   section Early History
-    0s : 0s
+    0s
     10s : 10s
     1070s : 1070s
     1300s : 1300s
