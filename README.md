@@ -673,6 +673,14 @@ timeline
           : 📍 Scene anchor: the boot camp transformation and the Huế firefight
           : 🎯 Timestamp map: recruit training → psychological breakdown → Vietnam deployment → urban combat climax
           : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
+          : Beth Harmon grows from orphanage chess novice into a world-class player
+         : Talent, addiction, loneliness, and persistence drive the story
+         : 🎬 "The Queen’s Gambit" (2020)
+         : 📽️ SOURCE: Netflix limited series following Beth’s rise during the Cold War [web:587][web:589][web:591]
+         : 📽️ SCENES: orphanage basement chess lessons, Kentucky tournament, US Open, New York training with Benny, Paris match, Moscow final
+         : 📍 Scene anchor: Beth’s final showdown with Borgov in Moscow and her Queen’s Gambit finish [web:603][web:604][web:606]
+         : 🎯 Timestamp map: orphanage → first tournaments → breakthrough → collapse → recovery → Moscow victory
+         : 🧠 THEMATIC LINK: adds a prestige character-drama chapter about genius, addiction, and self-mastery [web:589][web:598][web:611]
 
 
      1969 : Chicago / FBI infiltration
