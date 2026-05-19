@@ -260,3 +260,9 @@ timeline
          : 📍 Scene anchor: the WWII front-line scenes and the final sacrifice that dissolves the fence metaphor
          : 🎯 Timestamp map: pre-war romance → caste divide → enlistment → WWII combat → moral resolution
          : 🧠 THEMATIC LINK: connects India’s wartime participation with social division, sacrifice, and anti-fascist struggle
+         : 🎬 "Bicycle Thieves" (1948)
+         : 📽️ SOURCE: Vittorio De Sica’s Italian neorealist film set in post-World War II Rome
+         : 📽️ SCENES: job hunt in poverty-stricken Rome, bicycle theft, street search with Bruno, desperate final attempt
+         : 📍 Scene anchor: Antonio and Bruno searching the city for the stolen bicycle
+         : 🎯 Timestamp map: postwar hardship → stolen bicycle → citywide search → heartbreaking moral collapse
+         : 🧠 THEMATIC LINK: adds the civilian aftermath of WWII, showing how war damage turns into everyday survival struggle
