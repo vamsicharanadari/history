@@ -449,6 +449,17 @@ timeline
           : 🧠 THEMATIC LINK: adds Cold War-era military aviation and the culture of fighter pilot competition
 
      
+     2001 : Post-9/11 Afghanistan begins
+         : U.S. invasion follows the September 11 attacks
+         : Special operations and local alliances shape the opening campaign
+         : 🎬 "12 Strong" (2018)
+         : 📽️ SOURCE: War drama based on the first U.S. Special Forces mission into Afghanistan after 9/11
+         : 📽️ SCENES: deployment briefing, horseback movement with Northern Alliance, Taliban frontline clashes, airstrike coordination, Mazar-i-Sharif battle
+         : 📍 Scene anchor: the horseback advance with the Northern Alliance and the Mazar-i-Sharif assault
+         : 🎯 Timestamp map: post-9/11 deployment → alliance-building → desert combat → Taliban stronghold capture
+         : 🧠 THEMATIC LINK: expands the chart into the opening phase of the Afghanistan War, showing the shift from conventional airpower to special operations and local alliances
+
+     
      2003–2011 : Iraq War era
                : Urban combat, insurgency, and roadside bomb threats dominate
                : U.S. forces conduct counterinsurgency operations in Baghdad
@@ -476,7 +487,7 @@ timeline
               : 🎯 Timestamp map: post-9/11 intelligence hunt → lead analysis → compound discovery → bin Laden raid
               : 🧠 THEMATIC LINK: shifts the timeline into the 21st century, showing modern counterterrorism and intelligence warfare
 
-              
+
      2022 : Modern naval aviation
          : Test pilots, carrier operations, and high-speed strike missions
          : Legacy fighter culture meets next-generation combat flying
