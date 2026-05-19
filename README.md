@@ -254,3 +254,9 @@ timeline
          : 📍 Scene anchor: the Trinity test sequence and Oppenheimer’s reaction to the atomic age
          : 🎯 Timestamp map: wartime physics → Manhattan Project → Trinity test → nuclear aftermath
          : 🧠 THEMATIC LINK: closes the WWII arc by shifting from battlefield war to the creation of the atomic bomb
+         : 🎬 "Kanche" (2015)
+         : 📽️ SOURCE: Telugu war drama set against World War II and British India
+         : 📽️ SCENES: 1930s college romance, caste conflict in the village, enlistment into the war, European battlefield sequence, sacrifice and reconciliation
+         : 📍 Scene anchor: the WWII front-line scenes and the final sacrifice that dissolves the fence metaphor
+         : 🎯 Timestamp map: pre-war romance → caste divide → enlistment → WWII combat → moral resolution
+         : 🧠 THEMATIC LINK: connects India’s wartime participation with social division, sacrifice, and anti-fascist struggle
