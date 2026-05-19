@@ -24,6 +24,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a mythic ancient-war chapter, pairing large-scale siege warfare with the heroic battlefield arcs already in the timeline
 
 
+     968 CE : Chola Empire / dynastic war
+         : The Chola princes face assassination plots, betrayal, and rivalry
+         : Loyalty, revenge, and royal succession drive the conflict
+         : 🎬 "Ponniyin Selvan: Part II" (PS-2) (2023)
+         : 📽️ SOURCE: Mani Ratnam’s second part of the Ponniyin Selvan historical epic, continuing the Chola succession story [web:289][web:293]
+         : 📽️ SCENES: Pandyan conspiracy, sea rescue rumors, palace intrigue, battlefield mobilization, emotional climax [web:291][web:294]
+         : 📍 Scene anchor: the unraveling of the assassination plot and the final Chola power struggle [web:291][web:295]
+         : 🎯 Timestamp map: conspiracy deepens → alliances shift → revelations emerge → conflict peaks → succession resolves
+         : 🧠 THEMATIC LINK: adds the sequel’s culmination to the imperial timeline, bringing the Chola conflict arc to its decisive endpoint [web:289][web:293]
+
+
      1014 CE : Chola Empire / South Indian historical epic
          : A prince’s journey through political intrigue, war, and succession
          : Royal rivalry, alliance-building, and battlefield strategy
