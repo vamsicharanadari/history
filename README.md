@@ -1136,6 +1136,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a modern urban siege chapter, extending the timeline into asymmetric warfare and diplomatic crisis response
 
 
+    2013 : NSA / whistleblower thriller
+         : Edward Snowden leaks classified surveillance documents and flees the U.S.
+         : Privacy, surveillance, and whistleblowing drive the story
+         : 🎬 "Snowden" (2016)
+         : 📽️ SOURCE: Oliver Stone’s biographical thriller about Edward Snowden and the NSA leaks [web:1014][web:1015][web:1017]
+         : 📽️ SCENES: training and recruitment, classified access, document extraction, Hong Kong meetings, asylum flight, aftermath
+         : 📍 Scene anchor: Snowden revealing NSA surveillance programs to journalists in 2013 [web:1014][web:1018][web:1021]
+         : 🎯 Timestamp map: intelligence work → discovery → disclosure → escape → exile
+         : 🧠 THEMATIC LINK: adds a surveillance-and-whistleblowing chapter about state power, privacy, and moral risk [web:1014][web:1016][web:1017]
+
+
      2015 : Drone warfare / counterterrorism
          : Remote surveillance turns into a high-stakes strike decision
          : Civilian risk, ethics, and chain-of-command tension shape the mission
