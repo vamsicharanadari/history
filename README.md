@@ -396,7 +396,18 @@ timeline
           : 📽️ SCENES: Shelby betting shop operations, street gang shootouts, IRA assassination plotline
 
 
-    1924–1929 : Fragile peace period
+    1925 : Amazon / exploration drama
+         : British explorer Percy Fawcett searches for a rumored ancient civilization in the jungle
+         : Obsession, discovery, and disappearance drive the story
+         : 🎬 "The Lost City of Z" (2016)
+         : 📽️ SOURCE: James Gray’s biographical adventure film based on David Grann’s nonfiction book [web:986][web:988][web:989]
+         : 📽️ SCENES: Royal Geographical Society briefing, Amazon surveys, first evidence of settlements, repeated expeditions, family separation, final disappearance
+         : 📍 Scene anchor: Fawcett’s repeated journeys into the Amazon and his 1925 disappearance [web:986][web:988][web:989]
+         : 🎯 Timestamp map: military survey → first expedition → return with evidence → renewed obsession → final voyage
+         : 🧠 THEMATIC LINK: adds an exploration-and-obsession chapter about colonial-era science, endurance, and mystery [web:986][web:990][web:992]
+
+
+    1929 : Fragile peace period
               : League of Nations weak
               : Extremism rises slowly
               : 🧠 Peaky Blinders S2–S3 → business + political infiltration
@@ -1104,6 +1115,14 @@ timeline
                : 📍 Scene anchor: the Nürburgring crash and the racing breakthrough that follows [web:190][web:193]
                : 🎯 Timestamp map: game mastery → academy selection → training → breakthrough → setback and return
                : 🧠 THEMATIC LINK: adds a modern motorsport chapter, shifting the timeline from conflict-driven stories to competition, discipline, and high-speed risk [web:190][web:194]
+            : M.S. Dhoni rises from a small-town cricketer to India’s captain and World Cup winner
+            : Calm leadership, perseverance, and finishing under pressure drive the story
+            : 🎬 "M.S. Dhoni: The Untold Story" (2016)
+            : 📽️ SOURCE: Biographical drama about Mahendra Singh Dhoni, starring Sushant Singh Rajput [web:996][web:998][web:999]
+            : 📽️ SCENES: school and railway days, early wicketkeeping, domestic cricket breakthrough, national team selection, captaincy, 2011 World Cup finish
+            : 📍 Scene anchor: Dhoni’s growth into India’s World Cup-winning captain [web:996][web:998][web:1000]
+            : 🎯 Timestamp map: childhood → local cricket → selection → captaincy → World Cup triumph
+            : 🧠 THEMATIC LINK: adds an inspiring sports-biopic chapter about discipline, leadership, and peak-pressure finishing [web:996][web:998][web:1003]
 
      
      2012 : Benghazi / diplomatic compound attack
