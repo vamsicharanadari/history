@@ -318,3 +318,14 @@ timeline
           : 📍 Scene anchor: the boot camp transformation and the Huế firefight
           : 🎯 Timestamp map: recruit training → psychological breakdown → Vietnam deployment → urban combat climax
           : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
+
+
+     2011 : Post-9/11 manhunt
+              : Intelligence war, black sites, surveillance, and counterterrorism
+              : Osama bin Laden hunted across a decade
+              : 🎬 "Zero Dark Thirty" (2012)
+              : 📽️ SOURCE: Kathryn Bigelow political thriller about the hunt for Osama bin Laden
+              : 📽️ SCENES: CIA interrogations, intelligence gathering, tracking leads across years, Abbottabad raid buildup, night-vision assault
+              : 📍 Scene anchor: the final Navy SEAL raid on the Abbottabad compound
+              : 🎯 Timestamp map: post-9/11 intelligence hunt → lead analysis → compound discovery → bin Laden raid
+              : 🧠 THEMATIC LINK: shifts the timeline into the 21st century, showing modern counterterrorism and intelligence warfare
