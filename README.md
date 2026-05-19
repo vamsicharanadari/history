@@ -1077,6 +1077,14 @@ timeline
          : 📍 Scene anchor: the undercover rise inside Karachi’s criminal and political web [web:64][web:76]
          : 🎯 Timestamp map: origin trauma → intelligence recruitment → infiltration → underworld ascent → revenge campaign
          : 🧠 THEMATIC LINK: continues the espionage-and-counterterror chapter, extending the timeline deeper into long-form covert operations [web:64][web:77]
+         : Captain Chesley “Sully” Sullenberger lands a disabled plane on the Hudson River and saves everyone aboard
+         : Heroism, judgment, and public scrutiny drive the story
+         : 🎬 "Sully" (2016)
+         : 📽️ SOURCE: Clint Eastwood’s biographical drama about US Airways Flight 1549 and the aftermath [web:1033][web:1034][web:1037]
+         : 📽️ SCENES: bird strike, engine failure, emergency ditching, water rescue, hearings, computer simulations, verdict
+         : 📍 Scene anchor: the Hudson River landing on January 15, 2009 [web:1033][web:1034][web:1038]
+         : 🎯 Timestamp map: takeoff → bird strike → split-second decision → river landing → rescue → investigation
+         : 🧠 THEMATIC LINK: adds a real-life rescue chapter about calm leadership under extreme pressure [web:1034][web:1036][web:1040]
 
 
       2010 : India / Mars mission
