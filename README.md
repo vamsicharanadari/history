@@ -776,6 +776,14 @@ timeline
          : 📍 Scene anchor: Krishna’s journey back to Kashmir after Pushkar Nath’s death and the truth reveal [web:432][web:433]
          : 🎯 Timestamp map: family loss → campus conflict → return to Kashmir → survivor accounts → reckoning
          : 🧠 THEMATIC LINK: adds a trauma-and-memory chapter, extending the timeline into displacement, political conflict, and personal revelation [web:431][web:434]
+         : Richard Williams pushes Venus and Serena toward greatness with a strict, long-term plan
+         : Family, perseverance, and belief drive the story
+         : 🎬 "King Richard" (2021)
+         : 📽️ SOURCE: Biographical drama about Richard Williams and the early rise of Venus and Serena Williams [web:542][web:544][web:549]
+         : 📽️ SCENES: neighborhood courts, family training sessions, junior tournaments, Florida move, breakthrough matches
+         : 📍 Scene anchor: Richard’s 78-page plan to build champions before the girls were born [web:541][web:544]
+         : 🎯 Timestamp map: childhood training → tournament pressure → coaching conflicts → pro breakthrough
+         : 🧠 THEMATIC LINK: adds an inspirational sports-biopic chapter focused on ambition, discipline, and family legacy [web:543][web:550]
 
 
      1993 : Mumbai underworld / gangster revenge
