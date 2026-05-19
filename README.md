@@ -931,6 +931,17 @@ timeline
          : 🧠 THEMATIC LINK: continues the espionage-and-counterterror chapter, extending the timeline deeper into long-form covert operations [web:64][web:77]
 
 
+      2010 : India / Mars mission
+         : ISRO scientists race to launch Mangalyaan, India’s Mars Orbiter Mission
+         : Perseverance, teamwork, and innovation drive the story
+         : 🎬 "Mission Mangal" (2019)
+         : 📽️ SOURCE: Jagan Shakti’s drama loosely based on the scientists behind India’s first Mars mission [web:664][web:667][web:670]
+         : 📽️ SCENES: project setbacks, funding pressure, mission redesign, team coordination, launch countdown, mission success
+         : 📍 Scene anchor: the successful Mars Orbiter Mission launch, which made India the first country to reach Mars on its first attempt [web:664][web:666][web:668]
+         : 🎯 Timestamp map: failure → redesign → teamwork → launch → Mars orbit success
+         : 🧠 THEMATIC LINK: adds a science-and-service chapter about national ambition, problem-solving, and collective achievement [web:664][web:670][web:669]   
+
+
      2011 : Post-9/11 manhunt
               : Intelligence war, black sites, surveillance, and counterterrorism
               : Osama bin Laden hunted across a decade
