@@ -264,6 +264,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a Victorian detective chapter, shifting the timeline from grand historical conflict to sleuthing, labor injustice, and amateur investigation [web:335][web:339]
 
 
+     1900 : Paris / scientific breakthrough
+         : Marie Curie and Pierre Curie discover polonium and radium, changing modern science
+         : Genius, partnership, loss, and legacy drive the story
+         : 🎬 "Radioactive" (2019)
+         : 📽️ SOURCE: Marjane Satrapi’s biographical drama about Marie Curie [web:646][web:647][web:649]
+         : 📽️ SCENES: laboratory research, early marriage, element discovery, Nobel recognition, wartime medical use, later-life reflection
+         : 📍 Scene anchor: the discovery of polonium and radium and the emergence of radioactivity [web:646][web:648][web:650]
+         : 🎯 Timestamp map: training and research → discovery → fame → tragedy → scientific legacy
+         : 🧠 THEMATIC LINK: adds a science-biography chapter about discovery, sacrifice, and the long shadow of innovation [web:646][web:649][web:651]
+
+
     1914 : World War I begins
          : Assassination of Archduke Franz Ferdinand
          : Europe mobilizes for war
