@@ -530,6 +530,17 @@ timeline
               : 🧠 THEMATIC LINK: shifts the timeline into the 21st century, showing modern counterterrorism and intelligence warfare
 
 
+     2019 : South America / borderlands raid
+         : Former special operators attempt to steal cartel money
+         : Mission spirals into betrayal, pursuit, and survival
+         : 🎬 "Triple Frontier" (2019)
+         : 📽️ SOURCE: Action thriller about ex-special-ops soldiers targeting a cartel boss’s cash stash
+         : 📽️ SCENES: team reunion, jungle insertion, money extraction, helicopter crash, mountain escape
+         : 📍 Scene anchor: the helicopter crash and mountain crossing with the cash load
+         : 🎯 Timestamp map: recruitment → infiltration → heist → crash → escape
+         : 🧠 THEMATIC LINK: adds a modern mercenary/crime-war chapter, blending military skill with criminal pressure and moral collapse
+
+
      2022 : Modern naval aviation
          : Test pilots, carrier operations, and high-speed strike missions
          : Legacy fighter culture meets next-generation combat flying
