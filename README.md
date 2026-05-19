@@ -2,7 +2,7 @@
 
 ```mermaid
 timeline
-    Timeline Map
+    title History
      1770 : Boston Massacre and revolutionary tension
          : Rising conflict between colonists and British troops
          : Adams defends the British soldiers in court
@@ -102,7 +102,7 @@ timeline
          : 📽️ SCENES: Peacefield life, memoir writing, Jefferson correspondence, final illness
          : 📍 Scene anchor: Adams’ final years at Peacefield
          : 🎯 Timestamp map: retirement → personal tragedy → reconciliation → death on July 4, 1826 [web:245][web:249][web:252]
-         
+
 
      1804–1815 : Napoleonic Wars
                : France under Napoleon reshapes Europe through war and empire
