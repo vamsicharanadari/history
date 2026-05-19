@@ -481,6 +481,14 @@ timeline
          : 📍 Scene anchor: Churchill in the war room and the Underground speech sequence
          : 🎯 Timestamp map: Churchill becomes PM → cabinet conflict → Dunkirk evacuation → “we shall fight” resolve
          : 🧠 THEMATIC LINK: pairs directly with Dunkirk and Greyhound as the political side of Britain’s 1940 survival
+         : A drifter learns mentalism, rises fast, and is destroyed by his own scams
+         : Ambition, deception, and psychological collapse drive the story
+         : 🎬 "Nightmare Alley" (2021)
+         : 📽️ SOURCE: Guillermo del Toro’s psychological thriller based on William Lindsay Gresham’s novel [web:490][web:492]
+         : 📽️ SCENES: father’s death, carnival arrival, “geek” lesson, psychic act, city-society con, final downfall
+         : 📍 Scene anchor: Stan Carlisle’s rise from carnival worker to fraudulent mentalist [web:491][web:495]
+         : 🎯 Timestamp map: escape → carnival training → fraud success → elite con → collapse
+         : 🧠 THEMATIC LINK: adds a noir tragedy chapter, moving the timeline into deception, class aspiration, and moral ruin [web:492][web:494]
 
 
     1941 : Barbarossa + Pearl Harbor
