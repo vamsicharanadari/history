@@ -329,6 +329,17 @@ timeline
          : Japanese Kwantung Army invasion footage, civilian displacement imagery
 
 
+     1932 : Hollywood / silent-to-sound transition
+         : An aspiring assistant and a movie star navigate excess, ambition, and reinvention
+         : Fame, decadence, and career collapse shape the story
+         : 🎬 "Babylon" (2022)
+         : 📽️ SOURCE: Damien Chazelle’s period drama about early Hollywood’s transition from silent films to talkies [web:321][web:324]
+         : 📽️ SCENES: wild opening party, studio chaos, first sound shoot, career rise and fall, final montage
+         : 📍 Scene anchor: the chaotic party sequence and the later studio transition to sound [web:321][web:325]
+         : 🎯 Timestamp map: party chaos → studio ambitions → silent-era peak → sound era disruption → reflection
+         : 🧠 THEMATIC LINK: adds a showbiz-history chapter, extending the timeline into the rise and collapse of early cinema itself [web:321][web:327]
+
+
     1933 : Hitler becomes Chancellor
          : Nazi consolidation begins
          : Germany rearmament starts
