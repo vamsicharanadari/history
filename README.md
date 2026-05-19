@@ -170,5 +170,8 @@ timeline
          : 🎯 Timestamp map: camp liberation / surrender / occupation
          : 📍 Scene anchor: concentration camp liberation, German surrender columns, Berchtesgaden occupation
          : 📽️ NOTE: Eagle’s Nest imagery is often misattributed online; the series shows Berchtesgaden/HQ occupation rather than a dedicated Kehlsteinhaus scene sequence
+         : 🎬 "Jojo Rabbit" (fictional satire, 2019)
+         : 📽️ FICTIONAL SCENES: Hitler Youth indoctrination, child propaganda, street-level wartime fear, collapse of Nazi ideology
+         : 📽️ REAL-WORLD REF: End-stage Nazi Germany, civilian disillusionment, war’s impact on children and families
          : 📽️ SOURCE: Band of Brothers final episode material
          : WWII ends
