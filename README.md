@@ -722,6 +722,14 @@ timeline
          : 📍 Scene anchor: the peak-and-fall arc of the Von Erich brothers in the ring [web:152][web:158]
          : 🎯 Timestamp map: early success → title pursuit → injury cascade → tragedy → aftermath
          : 🧠 THEMATIC LINK: adds a tragic sports-drama chapter, shifting the timeline from war and conflict into family legacy, ambition, and loss [web:152][web:157]
+         : A student uncovers the truth about his Kashmiri Pandit family’s fate
+         : Loss, trauma, and contested history drive the story
+         : 🎬 "The Kashmir Files" (2022)
+         : 📽️ SOURCE: Hindi drama centered on the 1990 exodus of Kashmiri Hindus from the Kashmir Valley [web:431][web:432]
+         : 📽️ SCENES: grandfather’s stories, campus debates, Kashmir return, testimonies from old friends, truth reveal [web:432][web:437]
+         : 📍 Scene anchor: Krishna’s journey back to Kashmir after Pushkar Nath’s death and the truth reveal [web:432][web:433]
+         : 🎯 Timestamp map: family loss → campus conflict → return to Kashmir → survivor accounts → reckoning
+         : 🧠 THEMATIC LINK: adds a trauma-and-memory chapter, extending the timeline into displacement, political conflict, and personal revelation [web:431][web:434]
 
 
      1993 : Mumbai underworld / gangster revenge
