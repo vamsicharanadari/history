@@ -630,6 +630,14 @@ timeline
          : 📍 Scene anchor: the prisoner exchange on the Glienicke Bridge [web:25][web:30]
          : 🎯 Timestamp map: spy arrest → legal defense → negotiation → bridge swap → aftermath
          : 🧠 THEMATIC LINK: adds a diplomacy-and-espionage chapter, shifting from battlefield action to negotiated Cold War confrontation [web:25][web:31]
+         : Marilyn Monroe’s public image collides with her private pain
+         : Celebrity, exploitation, and identity loss drive the story
+         : 🎬 "Blonde" (2022)
+         : 📽️ SOURCE: Andrew Dominik’s fictionalized biographical drama based on Joyce Carol Oates’s novel [web:388][web:390]
+         : 📽️ SCENES: childhood trauma, studio breakthrough, publicity machine, troubled romances, final breakdown
+         : 📍 Scene anchor: the Seven Year Itch publicity era and Marilyn’s identity fracture [web:388][web:395]
+         : 🎯 Timestamp map: childhood → stardom → romance → exploitation → collapse
+         : 🧠 THEMATIC LINK: adds a celebrity-biography chapter, shifting the timeline into the dark side of fame and manufactured stardom [web:388][web:392]
 
 
      1968 : Vietnam War escalates
