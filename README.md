@@ -83,6 +83,12 @@ timeline
          : 📍 Scene anchor: the 1936 Berlin Olympics rowing race and the team’s underdog victory
          : 🎯 Timestamp map: Great Depression hardship → crew selection → Olympic competition → Berlin triumph
          : 🧠 THEMATIC LINK: adds an underdog sports story set against the same Nazi-era backdrop as Race
+         : 🎬 "Raiders of the Lost Ark" (1981)
+         : 📽️ SOURCE: Steven Spielberg adventure film set in 1936
+         : 📽️ SCENES: Nepal bar confrontation, Cairo searches, desert dig at Tanis, Ark recovery, Nazi island finale
+         : 📍 Scene anchor: the opening idol chase and the final Ark ceremony
+         : 🎯 Timestamp map: South America prologue → 1936 artifact hunt → Nazi pursuit → supernatural climax
+         : 🧠 THEMATIC LINK: fits the Nazi-era build-up by turning 1930s geopolitics into an action-adventure quest
 
 
     1937 : Japan full-scale war with China
