@@ -1046,6 +1046,14 @@ timeline
          : 📍 Scene anchor: the false espionage arrest and later exoneration [web:421][web:423][web:427]
          : 🎯 Timestamp map: student years → scientific rise → false charges → legal fight → vindication
          : 🧠 THEMATIC LINK: adds a science-and-justice chapter, shifting the timeline into space research, political scandal, and eventual redemption [web:421][web:425]
+         : Indian special forces plan and carry out a covert retaliatory strike after the 2016 Uri attack
+         : Patriotism, military planning, and revenge drive the story
+         : 🎬 "Uri: The Surgical Strike" (2019)
+         : 📽️ SOURCE: Aditya Dhar’s Hindi war action film based on the 2016 Uri attack and its aftermath [web:756][web:759][web:762]
+         : 📽️ SCENES: attack aftermath, mission briefing, training montage, helicopter insertion, strike execution, “How’s the josh?” rallying cry
+         : 📍 Scene anchor: the surgical strike on terrorist camps in response to the Uri attack [web:756][web:759][web:763]
+         : 🎯 Timestamp map: attack → retaliation planning → commando prep → covert strike → aftermath
+         : 🧠 THEMATIC LINK: adds a modern military-action chapter about strategy, sacrifice, and national response [web:756][web:760][web:762]
 
 
      2022 : Modern naval aviation
