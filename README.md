@@ -619,6 +619,14 @@ timeline
          : 📍 Scene anchor: the final meeting that secures Michael Jordan’s partnership with Nike [web:298][web:300][web:305]
          : 🎯 Timestamp map: market struggle → scouting Jordan → pitch strategy → family negotiation → historic deal
          : 🧠 THEMATIC LINK: adds a corporate-sports chapter, shifting the timeline from conflict and survival into branding, risk-taking, and cultural impact [web:298][web:302]
+         : A black bear rampages after ingesting a stash of cocaine
+         : Absurd violence, criminals, and panicked civilians collide
+         : 🎬 "Cocaine Bear" (2023)
+         : 📽️ SOURCE: Black comedy horror film loosely inspired by the real 1985 cocaine-bear incident [web:309][web:312]
+         : 📽️ SCENES: plane crash aftermath, forest rampage, ambulance chaos, criminal pursuit, final confrontation
+         : 📍 Scene anchor: the cocaine-fueled bear attack in the Georgia forest [web:310][web:311]
+         : 🎯 Timestamp map: drug drop → forest discovery → escalating carnage → confrontation → aftermath
+         : 🧠 THEMATIC LINK: adds a chaotic creature-feature chapter, shifting the timeline from historical and political dramas into outrageous survival horror [web:309][web:312]
 
 
      1986 : Cold War naval aviation
