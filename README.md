@@ -1,93 +1,49 @@
 # History
 
 ```mermaid
-mindmap
-  root((Road to WWII: 1918–1939))
+timeline
+    title Road to World War II (1918–1939)
 
-    Post-WWI Fallout (After World War I)
-      Treaty of Versailles (1919)
-        Germany blamed (war guilt)
-        Reparations imposed
-        Military restrictions
-        Loss of territory
-      Collapse of Empires
-        Austro-Hungarian Empire dissolved
-        Ottoman Empire dissolved
-        New unstable nations formed
-      League of Nations
-        Created for peacekeeping
-        Weak enforcement
-        No USA participation
+    1918–1919 : End of WWI → Global instability
+              : Treaty of Versailles → Germany punished (reparations, army limits, territory loss)
 
-    Global Economic Crisis
-      Great Depression (1929)
-        Mass unemployment
-        Collapse of global trade
-        Political instability rises
-      Germany
-        Hyperinflation (1923)
-        Economic desperation fuels extremism
-      USA
-        Isolationist policies
-      Europe
-        Weak recovery, dependence on US loans
+    1920s : League of Nations formed → Weak enforcement, no US participation
+          : New nations in Europe → Politically unstable
+          : Germany → Hyperinflation crisis (1923)
 
-    Rise of Aggressive Powers (What Each Did)
-      Germany (Hitler)
-        1933 Hitler becomes Chancellor
-        Rebuilds military (violates Versailles)
-        1936 Remilitarizes Rhineland
-        1938 Annexes Austria (Anschluss)
-        1938 Takes Sudetenland (Munich Agreement)
-        1939 Occupies Czechoslovakia
-        Signs Nazi-Soviet Pact (1939)
-      Italy (Mussolini)
-        Fascist regime consolidation
-        1935 Invades Ethiopia
-        Expands in Africa
-        Aligns with Germany (Rome-Berlin Axis)
-      Japan (Militarists)
-        1931 Invades Manchuria
-        1937 Full-scale war with China
-        Expands in East Asia for resources
+    1929 : Great Depression begins (USA)
+         : Global economic collapse → Unemployment rises worldwide
 
-    Failed International Response
-      Appeasement (UK & France)
-        Allowed German expansion
-        Munich Agreement (1938)
-      League of Nations Failures
-        No action on Manchuria (Japan)
-        No action on Ethiopia (Italy)
-      Fear Factors
-        Fear of another world war
-        Fear of communism (USSR)
+    Early 1930s : Germany → Economic crisis fuels extremism
+                : 1933 → Hitler becomes Chancellor → Starts rebuilding military
+                : USA → Isolationism (avoids global conflicts)
 
-    Strategic Build-Up to War
-      Germany Strategy
-        Avoid two-front war
-        Rapid expansion (Blitzkrieg planning)
-      Alliances Form
-        Axis Powers (Germany, Italy, Japan)
-        Allies (UK, France; USSR later)
-      Soviet Union (Stalin)
-        Signs pact with Germany
-        Secures eastern Poland buffer
+    1931 : Japan → Invades Manchuria (China)
+         : League of Nations fails to act
 
-    Immediate Pre-War Events
-      Nazi-Soviet Pact (1939)
-        Secret division of Poland
-      Germany Invades Poland (Sept 1939)
-      Britain & France Declare War
+    1935 : Italy (Mussolini) → Invades Ethiopia
+         : League again fails → Encourages aggression
 
-    Underlying Systemic Drivers
-      Revenge & Humiliation
-        German resentment of Versailles
-      Power Vacuum
-        Collapse of old empires
-      Economic Survival
-        Resource-driven expansion (Japan, Germany)
-      Ideological Conflict
-        Fascism vs Democracy vs Communism
-      Leadership Decisions
-        Risk-taking by Hitler
-        Passive response by democracies
+    1936 : Germany → Remilitarizes Rhineland (violates Versailles)
+         : UK & France → Take no action (appeasement begins)
+         : Rome–Berlin Axis formed (Germany + Italy)
+
+    1937 : Japan → Full-scale war with China
+         : Expands control in Asia
+
+    1938 : Germany → Annexes Austria (Anschluss)
+         : Germany → Demands Sudetenland (Czechoslovakia)
+         : Munich Agreement → UK & France allow it (appeasement peak)
+
+    Early 1939 : Germany → Occupies rest of Czechoslovakia (breaks promise)
+               : UK & France → Realize appeasement failed
+
+    Aug 1939 : Nazi-Soviet Pact (Germany + USSR)
+             : Secret agreement to divide Poland
+             : Germany avoids two-front war
+
+    Sept 1939 : Germany → Invades Poland (Blitzkrieg)
+              : USSR → Invades Poland from east
+              : Britain & France → Declare war
+
+    RESULT : Start of World War II
