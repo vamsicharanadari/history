@@ -3,6 +3,107 @@
 ```mermaid
 timeline
     Timeline Map
+     1770 : Boston Massacre and revolutionary tension
+         : Rising conflict between colonists and British troops
+         : Adams defends the British soldiers in court
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: Boston Massacre aftermath, Adams’ legal defense, early family and political tensions
+         : 📍 Scene anchor: the Boston Massacre defense sequence
+         : 🎯 Timestamp map: massacre → courtroom defense → public backlash → Adams’ moral stance
+         : 🧠 THEMATIC LINK: introduces Adams as a principled lawyer before the Revolution [web:245][web:252][web:254]
+
+    1774 : Continental Congress begins
+         : Colonial unity forms against Britain
+         : Adams emerges as a leading voice for independence
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: Continental Congress debates, political alliances, revolutionary planning
+         : 📍 Scene anchor: the Philadelphia Congress debates
+         : 🎯 Timestamp map: colonial unrest → Congress → independence movement grows → national leadership [web:245][web:252]
+
+    1775 : Lexington and Concord / war begins
+         : Armed conflict starts between Britain and the colonies
+         : Adams pushes independence and army organization
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: Revolutionary mobilization, Adams’ advocacy, early war atmosphere
+         : 📍 Scene anchor: the post-Concord Revolutionary crisis
+         : 🎯 Timestamp map: first shots → colonial mobilization → political commitment → war footing [web:245][web:251]
+
+    1776 : Declaration of Independence
+         : Thomas Jefferson drafts the declaration
+         : Adams supports the break from Britain
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: Declaration debates, Continental Congress votes, Adams and Jefferson partnership
+         : 📍 Scene anchor: the independence vote and declaration sequence
+         : 🎯 Timestamp map: drafting → debate → vote → independence proclaimed [web:244][web:252]
+
+    1777–1783 : Revolutionary diplomacy
+         : Adams serves in Europe to gain support for the war
+         : France and the Netherlands become central to the American cause
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: Adams and John Quincy crossing the Atlantic, French court diplomacy, illness, wartime negotiation
+         : 📍 Scene anchor: the Europe missions and Franco-American diplomacy
+         : 🎯 Timestamp map: war abroad → alliance building → diplomatic struggle → American legitimacy [web:245][web:252]
+
+    1783 : Treaty of Paris
+         : British recognition of American independence
+         : Adams helps negotiate peace
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: peace negotiations in Paris, Franklin and Jefferson interactions, diplomatic closure
+         : 📍 Scene anchor: Treaty of Paris negotiations
+         : 🎯 Timestamp map: victory → peace talks → treaty signing → postwar transition [web:245][web:252]
+
+    1789 : Adams becomes vice president
+         : Washington elected first president
+         : New federal government begins
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: return to Massachusetts, inaugural politics, early federal government formation
+         : 📍 Scene anchor: the first federal leadership transition
+         : 🎯 Timestamp map: ratification era → inauguration → vice presidency → republic stabilizes [web:245][web:252]
+
+    1797 : Adams becomes president
+         : Federalist leadership and the Quasi-War with France
+         : Neutrality and foreign crisis define the administration
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: presidential inauguration, diplomatic tension, cabinet conflict
+         : 📍 Scene anchor: Adams’ presidency begins
+         : 🎯 Timestamp map: election → inauguration → neutrality crisis → executive pressure [web:245][web:252]
+
+    1798 : XYZ Affair / Alien and Sedition Acts
+         : Relations with France deteriorate
+         : Domestic political conflict intensifies
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: French diplomatic crisis, federal crackdowns, Adams’ isolation
+         : 📍 Scene anchor: the foreign policy crisis and its domestic fallout
+         : 🎯 Timestamp map: diplomatic failure → political backlash → civil liberties conflict → widening rift [web:245][web:252]
+
+    1800 : Adams loses reelection
+         : Jefferson wins the presidency
+         : Federalist influence fades
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: political defeat, family strain, transition of power
+         : 📍 Scene anchor: Adams’ electoral loss
+         : 🎯 Timestamp map: final term → election defeat → peaceful transfer → new republic [web:245][web:252]
+
+    1803–1826 : Retirement and legacy
+         : Peacefield years, family loss, and final correspondence with Jefferson
+         : Adams lives to see his son John Quincy become president
+         : 🎬 "John Adams" (2008)
+         : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
+         : 📽️ SCENES: Peacefield life, memoir writing, Jefferson correspondence, final illness
+         : 📍 Scene anchor: Adams’ final years at Peacefield
+         : 🎯 Timestamp map: retirement → personal tragedy → reconciliation → death on July 4, 1826 [web:245][web:249][web:252]
+         
+
      1804–1815 : Napoleonic Wars
                : France under Napoleon reshapes Europe through war and empire
                : Coalitions rise and fall across Europe
