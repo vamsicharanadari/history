@@ -1,6 +1,6 @@
-<div style="display: flex; gap: 40px;">
-
-<div>
+| Left | Right |
+|---|---|
+| <sub>
 
 | Hierarchy | Era | Link |
 |---|---|---|
@@ -16,9 +16,7 @@
 | Early modern | 1770s | [Open 1770s](output/1770s.mmd) |
 | Early modern | 1780s | [Open 1780s](output/1780s.mmd) |
 
-</div>
-
-<div>
+</sub> | <sub>
 
 | Hierarchy | Era | Link |
 |---|---|---|
@@ -42,6 +40,4 @@
 | Modern | 2010s | [Open 2010s](output/2010s.mmd) |
 | Modern | 2020s | [Open 2020s](output/2020s.mmd) |
 
-</div>
-
-</div>
+</sub> |
