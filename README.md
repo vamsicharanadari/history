@@ -909,6 +909,14 @@ timeline
          : 📍 Scene anchor: Sartaj’s chase after Gaitonde’s warning to save Mumbai [web:462][web:464]
          : 🎯 Timestamp map: tip-off → investigation → flashbacks → conspiracy reveal → crisis prevention
          : 🧠 THEMATIC LINK: adds a prestige crime-thriller chapter, extending the timeline into modern Indian underworld politics and procedural suspense [web:461][web:463]
+         : Sanjay Dutt rises to stardom, falls into addiction, faces controversy, and fights to reclaim his life
+         : Fame, addiction, media trial, and redemption drive the story
+         : 🎬 "Sanju" (2018)
+         : 📽️ SOURCE: Rajkumar Hirani’s biographical drama starring Ranbir Kapoor as Sanjay Dutt [web:847][web:848][web:850]
+         : 📽️ SCENES: early film success, drug addiction spiral, arrest and prison, underworld rumors, family grief, comeback
+         : 📍 Scene anchor: the 1993 Bombay blasts case and its fallout on Sanjay Dutt’s life and public image [web:847][web:848][web:852]
+         : 🎯 Timestamp map: stardom → addiction → legal crisis → imprisonment → reflection → comeback
+         : 🧠 THEMATIC LINK: adds a celebrity-biopic chapter about scandal, survival, and the gap between public image and private reality [web:849][web:851][web:853]
 
      
      2001 : Post-9/11 Afghanistan begins
