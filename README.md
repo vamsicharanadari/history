@@ -680,6 +680,14 @@ timeline
          : 📍 Scene anchor: Gangubai’s rise from brothel inmate to Kamathipura leader [web:454][web:451]
          : 🎯 Timestamp map: deception → captivity → rise → advocacy → recognition
          : 🧠 THEMATIC LINK: adds a social-justice and underworld chapter, shifting the timeline into women’s rights, red-light district politics, and hard-won agency [web:451][web:454]
+         : Ray Kroc discovers McDonald’s, franchises it aggressively, and wrests control from the McDonald brothers
+         : Ambition, opportunism, and corporate takeover drive the story
+         : 🎬 "The Founder" (2016)
+         : 📽️ SOURCE: Biographical drama about the rise of McDonald’s under Ray Kroc [web:976][web:978][web:979]
+         : 📽️ SCENES: first visit to San Bernardino, partnership talks, franchise rollout, real-estate maneuvering, takeover, final empire
+         : 📍 Scene anchor: Ray Kroc’s shift from salesman to owner through the real-estate strategy [web:976][web:978][web:981]
+         : 🎯 Timestamp map: discovery → partnership → expansion → control struggle → takeover
+         : 🧠 THEMATIC LINK: adds a business-drama chapter about hustle, ethics, and the cost of success [web:979][web:980][web:982]
 
      
      1961 : Cold War / Congo Crisis / Jadotville
