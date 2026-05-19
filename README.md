@@ -151,6 +151,12 @@ timeline
          : 📍 Secondary scene: Brecourt Manor assault / artillery guns destroyed
          : 📽️ SOURCE: Band of Brothers episode guide + episode synopsis
          : 📽️ SCENES: aftermath of the D-Day landings and Brécourt Manor attack
+         : 🎬 "Saving Private Ryan" (1998)
+         : 📽️ SOURCE: Steven Spielberg WWII film
+         : 📽️ SCENES: Omaha Beach landing, chaotic D-Day assault, ranger search mission, final defense at Ramelle bridge
+         : 📍 Scene anchor: Omaha Beach opening sequence and the final stand at the bridge
+         : 🎯 Timestamp map: D-Day landing → inland movement → bridge defense climax
+         : 🧠 THEMATIC LINK: pairs naturally with Band of Brothers as a realistic depiction of the Normandy campaign and its aftermath
 
 
     Late 1944 : Battle of the Bulge
