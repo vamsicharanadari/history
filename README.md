@@ -672,6 +672,16 @@ timeline
          : 🎯 Timestamp map: embassy fall → hiding in Tehran → cover story construction → airport tension → escape
          : 🧠 THEMATIC LINK: adds a covert intelligence chapter to the timeline, shifting from open military action to deception and exfiltration [web:2][web:10]
 
+     1980 : Music / Michael Jackson biopic
+         : The rise of Michael Jackson from child performer to global superstar
+         : Talent, family pressure, and artistic ambition drive the story
+         : 🎬 "Michael" (2026)
+         : 📽️ SOURCE: Musical biographical drama about Michael Jackson’s life, from the Jackson 5 through his rise to solo stardom [web:403][web:404][web:408]
+         : 📽️ SCENES: Jackson 5 beginnings, family rehearsals, Motown breakthrough, solo career ascent, landmark performances
+         : 📍 Scene anchor: the Jackson 5 era and early solo breakthrough [web:404][web:411]
+         : 🎯 Timestamp map: childhood talent → family training → group success → solo reinvention → superstardom
+         : 🧠 THEMATIC LINK: adds a music-industry chapter, shifting the timeline into biographical performance, fame, and cultural legacy [web:404][web:408]
+
 
      1985 : Portland / Nike headquarters
          : A struggling sportswear company bets everything on one rookie athlete
