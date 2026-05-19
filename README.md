@@ -590,6 +590,17 @@ timeline
          : 🎯 Timestamp map: surveillance → target tracking → authorization debate → launch → consequences
          : 🧠 THEMATIC LINK: adds a modern drone-and-command chapter, shifting the timeline toward remote warfare and the moral cost of precision strikes
 
+     
+     2017 : Modern espionage / Russian intelligence
+         : A ballerina-turned-spy is trained for seduction and covert operations
+         : Betrayal, manipulation, and double-agent tradecraft drive the story
+         : 🎬 "Red Sparrow" (2018)
+         : 📽️ SOURCE: Spy thriller about Dominika Egorova and CIA officer Nate Nash [web:36][web:42]
+         : 📽️ SCENES: ballet injury, Sparrow School training, Budapest contact, interrogation, prisoner exchange
+         : 📍 Scene anchor: the Budapest espionage operation and final exchange [web:37][web:39]
+         : 🎯 Timestamp map: career-ending injury → recruitment → spy training → asset contact → double-cross
+         : 🧠 THEMATIC LINK: adds a cold-war-style espionage chapter with psychological warfare and recruitment under pressure [web:36][web:41]
+
 
      2019 : South America / borderlands raid
          : Former special operators attempt to steal cartel money
