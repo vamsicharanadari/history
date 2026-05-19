@@ -675,6 +675,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a celebrity-biography chapter, shifting the timeline into the dark side of fame and manufactured stardom [web:388][web:392]
 
 
+     1966 : Detroit → Le Mans
+         : Carroll Shelby and Ken Miles build Ford’s race program to beat Ferrari at Le Mans
+         : Rivalry, engineering, and corporate pressure drive the story
+         : 🎬 "Ford v Ferrari" (2019)
+         : 📽️ SOURCE: James Mangold’s biographical sports drama about the Ford GT40 project and the 1966 24 Hours of Le Mans [web:654][web:656][web:658]
+         : 📽️ SCENES: Ford boardroom push, Shelby’s recruitment, test-track development, Daytona, Le Mans race
+         : 📍 Scene anchor: Ford’s attempt to defeat Ferrari at the 1966 24 Hours of Le Mans [web:654][web:656][web:657]
+         : 🎯 Timestamp map: corporate mandate → car design → testing → racing setback → Le Mans showdown
+         : 🧠 THEMATIC LINK: adds a high-speed competition chapter about perseverance, mechanics, and underdog victory [web:656][web:660][web:661]
+
+
      1968 : Vietnam War escalates
           : Tet Offensive shocks the U.S.
           : Urban warfare and media-driven conflict intensify
