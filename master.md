@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
-  M[Master Timeline]
-  M --> Y2020["2020s"]
+timeline
+  title Master Timeline
+  2020s : See output/2020s.md
 ```
