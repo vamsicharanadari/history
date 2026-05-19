@@ -117,8 +117,10 @@ timeline
     1940 : France falls
          : Dunkirk evacuation
          : Britain alone
-         : 📽️ SOURCE: Dunkirk (2017)
-         : 📽️ SCENES: Operation Dynamo evacuation beaches, civilian boats rescue armada
+         : 🎬 "Dunkirk" (2017)
+         : 🎬 "Greyhound" (2020)
+         : 📽️ SOURCE: WWII archival footage + wartime naval operations
+         : 📽️ SCENES: Operation Dynamo evacuation beaches, civilian boats rescue armada, Atlantic convoy escort battles, U-boat hunt, destroyer command under pressure
 
 
     1941 : Barbarossa + Pearl Harbor
