@@ -703,6 +703,14 @@ timeline
          : 📍 Scene anchor: the 1970s Kolkata reformer storyline and the past-life reveal [web:471][web:474]
          : 🎯 Timestamp map: present-day conflict → visions return → historical backstory → love and resistance → resolution
          : 🧠 THEMATIC LINK: adds a reincarnation-and-social-reform chapter, blending period drama with spiritual identity and artistic self-discovery [web:471][web:477]
+         : Anti-war protesters are charged after the Democratic National Convention clashes
+         : Protest, state power, and judicial bias drive the story
+         : 🎬 "The Trial of the Chicago 7" (2020)
+         : 📽️ SOURCE: Aaron Sorkin’s film about the Chicago Seven trial following the 1968 DNC protests [web:615][web:617][web:619]
+         : 📽️ SCENES: convention protests, street clashes, courtroom sparring, Bobby Seale gagged in court, verdicts
+         : 📍 Scene anchor: the shift from the 1968 convention protests to the 1969–70 federal trial [web:613][web:614][web:617]
+         : 🎯 Timestamp map: protest → indictment → trial → contempt fights → verdict → appeal
+         : 🧠 THEMATIC LINK: adds a civil-rights-and-dissent chapter about activism, state response, and legal theater [web:613][web:620]
 
 
      1972 : Andes / survival disaster
