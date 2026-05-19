@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart TB
   T[Master Timeline]
 
@@ -62,3 +64,4 @@ flowchart TB
   click S2000 "output/2000s.md" "Open 2000s"
   click S2010 "output/2010s.md" "Open 2010s"
   click S2020 "output/2020s.md" "Open 2020s"
+```
