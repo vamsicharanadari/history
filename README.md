@@ -741,6 +741,22 @@ timeline
          : 📍 Scene anchor: Frank’s alleged role in Jimmy Hoffa’s disappearance [web:627][web:629][web:635]
          : 🎯 Timestamp map: veteran years → mob recruitment → union politics → Hoffa conflict → disappearance → old-age reflection
          : 🧠 THEMATIC LINK: adds a long-form crime tragedy chapter about aging, power, and irreversible choices [web:628][web:632][web:634]
+         : Rocky grows from poverty into a feared gangster and infiltrates K.G.F to topple its ruler
+         : Power, vengeance, and destiny drive the story
+         : 🎬 "K.G.F: Chapter 1" (2018)
+         : 📽️ SOURCE: Prashanth Neel’s Kannada action epic about Rocky and the brutal gold mines of Kolar [web:768][web:769][web:772]
+         : 📽️ SCENES: childhood poverty, Mumbai underworld rise, mine infiltration, slave cover identity, showdown with Garuda
+         : 📍 Scene anchor: Rocky’s entry into the Kolar Gold Fields to assassinate the mine’s tyrannical ruler [web:769][web:772][web:774]
+         : 🎯 Timestamp map: birth → hardship → Mumbai rise → undercover mission → mine takeover
+         : 🧠 THEMATIC LINK: adds a gritty underworld chapter about ambition, oppression, and uprising [web:768][web:770][web:773]
+         : Rocky holds KGF, while enemies, the government, and his past close in on him
+         : Power, revenge, and empire maintenance drive the story
+         : 🎬 "K.G.F: Chapter 2" (2022)
+         : 📽️ SOURCE: Prashanth Neel’s sequel to K.G.F: Chapter 1, continuing Rocky’s rise and rule over KGF [web:781][web:782][web:783]
+         : 📽️ SCENES: Anand/Deepa framing device, Rocky as ruler, Adheera’s threat, Ramika Sen confrontation, ship battle, final legend-building climax
+         : 📍 Scene anchor: Rocky’s battle to retain supremacy over KGF while facing state and criminal enemies [web:781][web:783][web:785]
+         : 🎯 Timestamp map: previous legend recap → Rocky’s rule → multiple enemies emerge → wars escalate → climax
+         : 🧠 THEMATIC LINK: adds a larger-than-life gangster sequel chapter about dominance, legacy, and resistance [web:782][web:784][web:788]
 
 
      1972 : Andes / survival disaster
