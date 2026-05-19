@@ -437,6 +437,17 @@ timeline
           : 🎯 Timestamp map: recruit training → psychological breakdown → Vietnam deployment → urban combat climax
           : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
 
+     
+     2003–2011 : Iraq War era
+              : Urban combat, insurgency, and roadside bomb threats dominate
+              : U.S. forces conduct counterinsurgency operations in Baghdad
+              : 🎬 "The Hurt Locker" (2008)
+              : 📽️ SOURCE: Kathryn Bigelow Iraq War film about an EOD bomb disposal unit in Baghdad
+              : 📽️ SCENES: roadside bomb disposal, sniper threats, market tension, civilian danger, final re-deployment
+              : 📍 Scene anchor: the bomb-defusal sequences and Staff Sgt. William James’ risky field decisions
+              : 🎯 Timestamp map: deployment → bomb disposal missions → psychological strain → redeployment
+              : 🧠 THEMATIC LINK: expands the chart into the Iraq War era, showing modern urban combat and the pressure of improvised explosive warfare
+
 
      2011 : Post-9/11 manhunt
               : Intelligence war, black sites, surveillance, and counterterrorism
