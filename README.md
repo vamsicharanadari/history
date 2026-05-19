@@ -489,6 +489,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a deep-sea Cold War disaster chapter, shifting from battlefield and covert operations to nuclear brinkmanship [web:17][web:18]
 
 
+     1962 : Cold War / Berlin prisoner exchange
+         : A civilian lawyer negotiates a spy swap between the U.S. and the Soviet Union
+         : Diplomacy, risk, and moral pressure define the mission
+         : 🎬 "Bridge of Spies" (2015)
+         : 📽️ SOURCE: Cold War historical drama about James Donovan negotiating the release of Francis Gary Powers in exchange for Rudolf Abel [web:25][web:29]
+         : 📽️ SCENES: legal defense, Berlin travel, checkpoint tension, bridge exchange, final departure
+         : 📍 Scene anchor: the prisoner exchange on the Glienicke Bridge [web:25][web:30]
+         : 🎯 Timestamp map: spy arrest → legal defense → negotiation → bridge swap → aftermath
+         : 🧠 THEMATIC LINK: adds a diplomacy-and-espionage chapter, shifting from battlefield action to negotiated Cold War confrontation [web:25][web:31]
+
+
      1979 : Iran hostage crisis / Tehran exfiltration
          : CIA covert rescue using a fake film production cover
          : Six U.S. diplomats escape from Tehran with Canadian help
