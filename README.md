@@ -517,6 +517,14 @@ timeline
                : 📍 Scene anchor: the rooftop sniper sequences and Kyle’s repeated deployments
                : 🎯 Timestamp map: enlistment → SEAL training → Iraq deployments → homecoming and aftermath
                : 🧠 THEMATIC LINK: adds a soldier-centered Iraq War perspective focused on marksmanship, duty, and the psychological cost of repeated deployment
+               : U.S. soldiers escort a water repair mission through hostile territory
+               : Reconstruction collides with insurgent violence
+               : 🎬 "Sand Castle" (2017)
+               : 📽️ SOURCE: War drama set during the 2003 invasion of Iraq, following an Army unit assigned to a damaged village [web:18]
+               : 📽️ SCENES: convoy movement, village protection, infrastructure repair, ambushes, tense withdrawal
+               : 📍 Scene anchor: the convoy escort and village defense under fire
+               : 🎯 Timestamp map: deployment → patrol → repair mission → ambush → extraction
+               : 🧠 THEMATIC LINK: adds an Iraq War occupation chapter, shifting the timeline from conventional battle to stabilization and counterinsurgency
 
 
      2011 : Post-9/11 manhunt
