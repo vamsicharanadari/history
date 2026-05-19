@@ -475,3 +475,14 @@ timeline
               : 📍 Scene anchor: the final Navy SEAL raid on the Abbottabad compound
               : 🎯 Timestamp map: post-9/11 intelligence hunt → lead analysis → compound discovery → bin Laden raid
               : 🧠 THEMATIC LINK: shifts the timeline into the 21st century, showing modern counterterrorism and intelligence warfare
+
+              
+     2022 : Modern naval aviation
+         : Test pilots, carrier operations, and high-speed strike missions
+         : Legacy fighter culture meets next-generation combat flying
+         : 🎬 "Top Gun: Maverick" (2022)
+         : 📽️ SOURCE: Joseph Kosinski action sequel centered on Navy test pilots and Top Gun graduates
+         : 📽️ SCENES: Darkstar test flight, Top Gun training runs, reunion with Rooster, canyon mission, final dogfight and escape
+         : 📍 Scene anchor: the low-altitude canyon mission and the F-14 escape
+         : 🎯 Timestamp map: test pilot program → training refresher → mission planning → strike run and return
+         : 🧠 THEMATIC LINK: extends the Cold War aviation thread into the modern era, blending legacy fighter culture with next-generation combat flying
