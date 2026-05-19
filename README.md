@@ -600,6 +600,14 @@ timeline
          : 📍 Scene anchor: Sammy’s realization of how filmmaking reveals family truth [web:372][web:378]
          : 🎯 Timestamp map: childhood wonder → amateur filmmaking → family fracture → artistic growth → farewell
          : 🧠 THEMATIC LINK: adds a personal cinema-history chapter, shifting the timeline from external conflict into inner life, art, and memory [web:372][web:375]
+         : A young woman is forced into prostitution and rises to power
+         : Survival, resilience, and advocacy for sex workers define the story
+         : 🎬 "Gangubai Kathiawadi" (2022)
+         : 📽️ SOURCE: Sanjay Leela Bhansali’s biographical crime drama inspired by Gangubai Harjeevandas Kathiawadi and Mafia Queens of Mumbai [web:454][web:455]
+         : 📽️ SCENES: betrayal and abduction, brothel entry, underworld alliances, public speeches, political negotiation
+         : 📍 Scene anchor: Gangubai’s rise from brothel inmate to Kamathipura leader [web:454][web:451]
+         : 🎯 Timestamp map: deception → captivity → rise → advocacy → recognition
+         : 🧠 THEMATIC LINK: adds a social-justice and underworld chapter, shifting the timeline into women’s rights, red-light district politics, and hard-won agency [web:451][web:454]
 
      
      1961 : Cold War / Congo Crisis / Jadotville
@@ -741,6 +749,17 @@ timeline
          : 📍 Scene anchor: OG’s return to Mumbai and the confrontation with Omi Bhau [web:127][web:129]
          : 🎯 Timestamp map: exile → return → alliance shifts → criminal war → reckoning
          : 🧠 THEMATIC LINK: adds a contemporary gangster chapter, extending the timeline from wartime and espionage into organized-crime warfare [web:127][web:129]
+
+
+     2000 : Mumbai / crime-thriller
+         : An honest cop is pulled into a city-wide crisis by a gangster’s warning
+         : Corruption, prophecy, and underworld power drive the story
+         : 🎬 "Sacred Games" (2018–2019)
+         : 📽️ SOURCE: Netflix series based on Vikram Chandra’s novel, following Sartaj Singh and Ganesh Gaitonde [web:466][web:467]
+         : 📽️ SCENES: anonymous call, underworld flashbacks, police investigation, RAW involvement, countdown to disaster
+         : 📍 Scene anchor: Sartaj’s chase after Gaitonde’s warning to save Mumbai [web:462][web:464]
+         : 🎯 Timestamp map: tip-off → investigation → flashbacks → conspiracy reveal → crisis prevention
+         : 🧠 THEMATIC LINK: adds a prestige crime-thriller chapter, extending the timeline into modern Indian underworld politics and procedural suspense [web:461][web:463]
 
      
      2001 : Post-9/11 Afghanistan begins
