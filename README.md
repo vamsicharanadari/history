@@ -541,6 +541,14 @@ timeline
          : 📍 Scene anchor: the horseback advance with the Northern Alliance and the Mazar-i-Sharif assault
          : 🎯 Timestamp map: post-9/11 deployment → alliance-building → desert combat → Taliban stronghold capture
          : 🧠 THEMATIC LINK: expands the chart into the opening phase of the Afghanistan War, showing the shift from conventional airpower to special operations and local alliances
+         : An Indian intelligence agent infiltrates Karachi’s criminal and political networks
+         : Espionage, retaliation, and high-stakes undercover work drive the story
+         : 🎬 "Dhurandhar" (2025)
+         : 📽️ SOURCE: Hindi spy action thriller by Aditya Dhar, inspired loosely by events including the IC-814 hijacking, the Indian Parliament attack, and the Mumbai attacks [web:62][web:68]
+         : 📽️ SCENES: recruitment, undercover insertion, gang network infiltration, intelligence gathering, explosive confrontations, covert retaliation
+         : 📍 Scene anchor: the Karachi underworld infiltration and counterterror operation [web:62][web:68]
+         : 🎯 Timestamp map: crisis aftermath → covert planning → infiltration → betrayal → strike
+         : 🧠 THEMATIC LINK: adds a contemporary espionage-and-counterterror chapter, continuing the timeline’s move from war films into intelligence operations [web:62][web:71]
 
      
      2003–2011 : Iraq War era
