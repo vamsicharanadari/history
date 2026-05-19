@@ -28,6 +28,12 @@ timeline
           : 📍 Scene anchor: the one-take-style mission across enemy lines to stop a doomed attack
           : 🎯 Timestamp map: battlefield briefing → perilous journey → message delivery → attack called off
           : 🧠 THEMATIC LINK: adds the trench-level WWI perspective that begins the whole historical arc in your chart
+          : 🎬 "Wonder Woman" (2017)
+          : 📽️ SOURCE: Superhero origin film set against the final years of World War I
+          : 📽️ SCENES: Themyscira introduction, trench arrival in Europe, No Man’s Land crossing, battlefield rescue, final confrontation with Ares
+          : 📍 Scene anchor: the No Man’s Land sequence and Diana leading the assault
+          : 🎯 Timestamp map: hidden island origin → wartime Europe → trench breakthrough → end-of-war climax
+          : 🧠 THEMATIC LINK: adds a mythic WWI perspective, showing the war through heroism, sacrifice, and the hope of stopping mass violence
 
      
      1918 : WWI ends
