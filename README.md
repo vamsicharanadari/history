@@ -870,6 +870,14 @@ timeline
          : 📍 Scene anchor: the covert Kashmir operation that enables the abrogation [web:240][web:241]
          : 🎯 Timestamp map: unrest → recruitment → infiltration → intelligence breakthrough → abrogation
          : 🧠 THEMATIC LINK: adds a political-thriller chapter to the timeline, connecting insurgency, statecraft, and legal transformation [web:235][web:240]
+         : A rocket scientist is falsely accused of selling secrets and fights to clear his name
+         : Justice, reputation, and scientific ambition drive the story
+         : 🎬 "Rocketry: The Nambi Effect" (2022)
+         : 📽️ SOURCE: Biographical drama based on the life of ISRO scientist Nambi Narayanan [web:421][web:422][web:424]
+         : 📽️ SCENES: Princeton days, ISRO research, arrest and interrogation, courtroom struggle, exoneration, Mangalyaan-era return
+         : 📍 Scene anchor: the false espionage arrest and later exoneration [web:421][web:423][web:427]
+         : 🎯 Timestamp map: student years → scientific rise → false charges → legal fight → vindication
+         : 🧠 THEMATIC LINK: adds a science-and-justice chapter, shifting the timeline into space research, political scandal, and eventual redemption [web:421][web:425]
 
 
      2022 : Modern naval aviation
