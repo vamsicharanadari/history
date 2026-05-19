@@ -545,6 +545,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a diplomacy-and-espionage chapter, shifting from battlefield action to negotiated Cold War confrontation [web:25][web:31]
 
 
+     1972 : Andes / survival disaster
+         : A rugby team fights to survive after a plane crash in the mountains
+         : Extreme cold, shared sacrifice, and endurance define the struggle
+         : 🎬 "Society of the Snow" (2023)
+         : 📽️ SOURCE: Survival drama based on the 1972 Uruguayan Air Force Flight 571 disaster [web:170][web:174]
+         : 📽️ SCENES: crash impact, fuselage shelter, avalanches, expedition for help, rescue arrival
+         : 📍 Scene anchor: the glacier survival camp and the trek to find rescue [web:171][web:173]
+         : 🎯 Timestamp map: takeoff → crash → survival → expedition → rescue
+         : 🧠 THEMATIC LINK: adds a survival-against-nature chapter, shifting from human conflict to extreme environmental ordeal [web:170][web:176]
+
+
      1979 : Iran hostage crisis / Tehran exfiltration
          : CIA covert rescue using a fake film production cover
          : Six U.S. diplomats escape from Tehran with Canadian help
