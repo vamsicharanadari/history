@@ -2,7 +2,17 @@
 
 ```mermaid
 timeline
-    title WWI → WWII (1914–1945) with Episode Timestamp Map
+    Timeline Map
+     1804–1815 : Napoleonic Wars
+               : France under Napoleon reshapes Europe through war and empire
+               : Coalitions rise and fall across Europe
+               : 🎬 "Napoleon" (2023)
+               : 📽️ SOURCE: Ridley Scott historical epic about Napoleon Bonaparte
+               : 📽️ SCENES: French Revolution aftermath, Austerlitz campaign, coronation, Egyptian ambitions, Waterloo defeat
+               : 📍 Scene anchor: the battlefield sequences and the final collapse at Waterloo
+               : 🎯 Timestamp map: rise to power → imperial expansion → continental wars → Waterloo defeat
+               : 🧠 THEMATIC LINK: expands the chart backward into early 19th-century European warfare and the rise of modern empire
+
 
     1914 : World War I begins
          : Assassination of Archduke Franz Ferdinand
