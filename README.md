@@ -2,72 +2,98 @@
 
 ```mermaid
 timeline
-    title Road to WWII (1918–1939) with Films + Peaky Blinders Context
+    title WWI Aftermath → WWII (1918–1945) with Films + Peaky Blinders Arc
 
     1918–1919 : End of WWI / Treaty of Versailles
-              : Germany punished, Europe reshaped
-              : 🎬 "They Shall Not Grow Old" (WWI aftermath realism)
-              : 🎬 "War Horse" (WWI impact on soldiers & societies)
-              : 🧠 Peaky Blinders: returning WWI veterans, trauma, unstable Britain, rise of gangs (Tommy Shelby generation begins)
+              : Europe reshaped, empires collapse
+              : Germany punished, instability begins
+              : 🎬 "They Shall Not Grow Old"
+              : 🎬 "War Horse"
+              : 🧠 Peaky Blinders S1 setup → WWI veterans return, trauma, Birmingham gangs rise, Shelby family begins expansion
 
-    1920s : Fragile peace, League of Nations formed
-          : Germany unstable, hyperinflation crisis
-          : 🎬 "Cabaret" (rise of political instability in Germany)
-          : 🎬 "The Great Dictator" (satirical view of rising fascism)
-          : 🧠 Peaky Blinders: Birmingham gang expansion, post-war poverty, black market economy, IRA links, British class tension
+    1920–1923 : Post-war chaos in Europe
+              : New borders, weak governments
+              : Germany hyperinflation crisis (1923)
+              : 🎬 "Cabaret"
+              : 🧠 Peaky Blinders S1–S2 → black market economy, IRA involvement, gang warfare, rise of Tommy Shelby power base
+
+    1924–1929 : Fragile peace period
+              : League of Nations weak
+              : Political extremism slowly grows
+              : 🎬 "The Great Dictator"
+              : 🧠 Peaky Blinders S2–S3 → Shelby Company expansion, political corruption, aristocratic infiltration, legal business front
 
     1929 : Great Depression begins
-         : Global economic collapse → political extremism rises
-         : 🎬 "Cinderella Man" (Depression-era hardship)
-         : 🎬 "Germans: Rise of Hitler" (documentary-style coverage)
-         : 🧠 Peaky Blinders: Shelby business empire expansion, corruption, political influence becomes central theme
-
-    Early 1930s : Hitler rises to power (1933)
-                : Germany begins rearmament
-                : USA isolationism
-                : 🎬 "Downfall (Der Untergang)" (Hitler’s regime inside Germany)
-                : 🎬 "Hitler: The Rise of Evil" (early Nazi consolidation)
-                : 🧠 Peaky Blinders: rise of extremist politics entering Britain, Oswald Mosley foreshadowed, elite political corruption
+         : Global economic collapse
+         : Unemployment and unrest spread
+         : 🎬 "Cinderella Man"
+         : 🧠 Peaky Blinders S3–S4 → industrial empire building, financial manipulation, political lobbying increases
 
     1931 : Japan invades Manchuria
-         : League of Nations fails to respond
-         : 🎬 "The Wind Rises" (Japan’s pre-war militarization context)
+         : League of Nations fails
+         : First major breakdown of post-WWI order
+
+    1933 : Hitler becomes Chancellor
+         : Nazi regime consolidation begins
+         : Germany rearmament starts
+         : 🎬 "Downfall"
+         : 🎬 "Hitler: The Rise of Evil"
 
     1935 : Italy invades Ethiopia
-         : Fascist expansion begins in Africa
-         : 🎬 "Bitter Lake" (documentary-style geopolitical commentary)
-         : 🎬 "Il Duce and the Rise of Fascism" (documentary)
+         : Fascist expansion begins
+         : Axis cooperation strengthens
 
     1936 : Germany remilitarizes Rhineland
-         : UK/France respond with appeasement
-         : Rome-Berlin Axis forms
-         : 🎬 "Munich: The Edge of War" (appeasement politics)
-         : 🎬 "Inside Hitler’s Germany" (documentary)
-         : 🧠 Peaky Blinders: British political establishment shown as weak, elite manipulation and fascist sympathy rises (Mosley era influence begins)
+         : UK & France choose appeasement
+         : Rome–Berlin Axis forms
+         : 🧠 Peaky Blinders S4–S5 → Mosley ideology enters Britain, fascist politics rise domestically
+         : 🎬 "Munich: The Edge of War"
 
     1937 : Japan full-scale war with China
-         : Brutal expansion in Asia begins
-         : 🎬 "City of Life and Death" (Nanjing Massacre perspective)
-         : 🎬 "The Rape of Nanking" (documentary)
+         : Brutal expansion in Asia
+         : Nanjing atrocities
 
     1938 : Anschluss (Austria annexed)
          : Munich Agreement → Sudetenland given to Germany
-         : Appeasement reaches peak
-         : 🎬 "Darkest Hour" (British decision-making under pressure)
-         : 🎬 "Munich" (1938 appeasement negotiations)
-         : 🧠 Peaky Blinders: fascist ideology becomes visible in British politics (Oswald Mosley storyline mirrors real BUF rise)
+         : Appeasement peak
+         : 🧠 Peaky Blinders S5 → Oswald Mosley arc reflects real British Union of Fascists rise
+         : 🎬 "Darkest Hour"
+         : 🎬 "Munich"
 
     Early 1939 : Germany occupies Czechoslovakia
-               : Britain & France realize war is likely
-               : 🎬 "Nuremberg" (pre-war ideology and justice themes)
+               : Appeasement fails completely
+               : Europe prepares for war
 
     Aug 1939 : Nazi-Soviet Pact signed
              : Secret division of Poland
-             : 🎬 "The Man Who Saved the World?" (Cold War–era reflections on decisions)
+             : Germany avoids two-front war
 
     Sept 1939 : Germany invades Poland
-              : Britain & France declare war → WWII begins
-              : 🎬 "World War II in Colour" (documentary overview)
-              : 🎬 "Band of Brothers" (war aftermath perspective, later events)
+              : Britain & France declare war
+              : WORLD WAR II BEGINS
+              : 🎬 "World War II in Colour"
 
-    RESULT : World War II begins
+    1940 : Germany conquers France
+         : Dunkirk evacuation
+         : Britain alone against Axis
+         : 🧠 Peaky Blinders epilogue era (story ends before this but world transitions here)
+
+    1941 : Operation Barbarossa (USSR invaded)
+         : Pearl Harbor attack
+         : USA enters WWII
+         : Global war fully expands
+
+    1942 : Turning point begins
+         : Stalingrad battle
+         : Midway naval battle
+
+    1943 : Axis begins losing ground
+         : Allied counter-offensives increase
+
+    1944 : D-Day invasion of Normandy
+         : Liberation of Europe begins
+
+    1945 : Germany surrenders (May)
+         : Atomic bombs on Japan
+         : Japan surrenders (Sept)
+         : WORLD WAR II ENDS
