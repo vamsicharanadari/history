@@ -702,6 +702,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a music-industry chapter, shifting the timeline into biographical performance, fame, and cultural legacy [web:404][web:408]
 
 
+     1983 : Lord's / Cricket World Cup
+         : India’s underdog cricket team battles the odds and defeats the West Indies
+         : Belief, teamwork, and national pride drive the story
+         : 🎬 "83" (2021)
+         : 📽️ SOURCE: Kabir Khan’s biographical sports drama about India’s 1983 Cricket World Cup victory [web:481][web:482][web:485]
+         : 📽️ SCENES: training camp, group-stage matches, tense huddles, final at Lord's, trophy celebration
+         : 📍 Scene anchor: the final against West Indies at Lord’s on 25 June 1983 [web:481][web:487]
+         : 🎯 Timestamp map: selection → early matches → pressure rises → final match → historic win
+         : 🧠 THEMATIC LINK: adds a sports-hero chapter, shifting the timeline into national achievement, perseverance, and underdog triumph [web:481][web:482]
+
+
      1985 : Portland / Nike headquarters
          : A struggling sportswear company bets everything on one rookie athlete
          : Business risk, branding, and corporate persuasion drive the story
