@@ -36,6 +36,17 @@ timeline
          : 🧠 THEMATIC LINK: expands the timeline into mythic prehistory, adding a folklore-heavy origin chapter to the village and spiritual conflict already represented by Kantara [web:96][web:108]
 
 
+     1070 : Tribal past / present-day Goa
+         : A fierce tribal warrior’s promise is linked to a bounty hunter’s modern quest
+         : Mythic reincarnation, family ties, and battle across centuries
+         : 🎬 "Kanguva" (2024)
+         : 📽️ SOURCE: Tamil fantasy action film directed by Siva, following Francis Theodore in 2024 and a warrior storyline set in 1070 [web:142][web:143]
+         : 📽️ SCENES: present-day bounty hunting, child connection reveal, tribal-era flashbacks, battlefield clashes, final confrontation
+         : 📍 Scene anchor: the transition between the 1070 tribal storyline and the 2024 modern arc [web:142][web:148]
+         : 🎯 Timestamp map: modern setup → ancestral reveal → cross-era conflict → showdown → resolution
+         : 🧠 THEMATIC LINK: adds a dual-timeline fantasy-action chapter, pairing mythic warfare with contemporary crime-thriller energy [web:142][web:148]
+
+
      1304 : Scottish Wars of Independence
          : Robert the Bruce fights to reclaim Scotland
          : Guerrilla resistance, loyalty, and survival against English power
