@@ -68,7 +68,18 @@ timeline
          : 🧠 THEMATIC LINK: adds an ancient heroic-warfare chapter, contrasting disciplined infantry defense with the modern and covert conflicts already in the timeline
 
 
-     4th century CE : Kadamba-era Karnataka / mythic origins
+    2 : Satavahana Empire / Deccan India
+         : Gautamiputra Satakarni defeats the Sakas and expands Satavahana power across the Deccan
+         : Kingship, conquest, and unity drive the story
+         : 🎬 "Gautamiputra Satakarni" (2017)
+         : 📽️ SOURCE: Krish’s Telugu historical action film starring Nandamuri Balakrishna [web:964][web:968][web:971]
+         : 📽️ SCENES: royal succession, battlefield campaigns, alliance-building, confrontation with enemy kings, coronation, territorial expansion
+         : 📍 Scene anchor: Gautamiputra’s victories over the Sakas and the consolidation of Satavahana rule [web:963][web:966][web:967]
+         : 🎯 Timestamp map: rise to power → campaigns → expansion → political consolidation → legacy
+         : 🧠 THEMATIC LINK: adds an imperial-history chapter about warfare, statecraft, and regional unification [web:964][web:968][web:970]
+
+
+     4 : Kadamba-era Karnataka / mythic origins
          : Forest people, temple power, and divine forces collide
          : A prequel origin story rooted in folklore and spiritual conflict
          : 🎬 "Kantara: A Legend – Chapter 1" (2025)
