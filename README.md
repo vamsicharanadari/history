@@ -537,6 +537,17 @@ timeline
               : 🎯 Timestamp map: post-9/11 intelligence hunt → lead analysis → compound discovery → bin Laden raid
               : 🧠 THEMATIC LINK: shifts the timeline into the 21st century, showing modern counterterrorism and intelligence warfare
 
+     
+     2012 : Benghazi / diplomatic compound attack
+         : Security contractors and CIA personnel defend a compound under siege
+         : A night battle to hold out and extract personnel
+         : 🎬 "13 Hours: The Secret Soldiers of Benghazi" (2016)
+         : 📽️ SOURCE: War thriller based on the 2012 Benghazi attack on a U.S. diplomatic compound
+         : 📽️ SCENES: compound breach, rooftop defense, convoy runs, rescue attempts, final evacuation
+         : 📍 Scene anchor: the compound assault and overnight defense
+         : 🎯 Timestamp map: warning signs → initial attack → defensive stand → rescue convoy → evacuation
+         : 🧠 THEMATIC LINK: adds a modern urban siege chapter, extending the timeline into asymmetric warfare and diplomatic crisis response
+
 
      2019 : South America / borderlands raid
          : Former special operators attempt to steal cartel money
