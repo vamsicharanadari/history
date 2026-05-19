@@ -142,6 +142,18 @@ timeline
          : 📽️ SCENES: political defeat, family strain, transition of power
          : 📍 Scene anchor: Adams’ electoral loss
          : 🎯 Timestamp map: final term → election defeat → peaceful transfer → new republic [web:245][web:252]
+         
+
+     1801 : Yorkshire moors / Gothic drama
+         : A newcomer uncovers the bitter history of Wuthering Heights
+         : Obsession, class conflict, and revenge shape two intertwined families
+         : 🎬 "Wuthering Heights" (1939/2011/other adaptations)
+         : 📽️ SOURCE: Emily Brontë’s Gothic novel centered on Heathcliff, Catherine, and the Earnshaw/Linton families [web:82][web:84]
+         : 📽️ SCENES: Lockwood’s arrival, stormy house visit, childhood friendship, Catherine’s marriage, Heathcliff’s return
+         : 📍 Scene anchor: the moorland setting and Heathcliff/Catherine tragedy [web:82][web:85]
+         : 🎯 Timestamp map: arrival → backstory reveal → love and betrayal → revenge → generational resolution
+         : 🧠 THEMATIC LINK: adds a Gothic literary chapter, shifting the timeline from war and espionage into passion, revenge, and haunted landscapes [web:82][web:86]
+
 
     1803–1826 : Retirement and legacy
          : Peacefield years, family loss, and final correspondence with Jefferson
