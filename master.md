@@ -1,5 +1,10 @@
 ```mermaid
+# Master Timeline
+
+```mermaid
 flowchart TD
   A[History] --> B[2020s]
-  B --> C[2020s details]
+```
+
+- [Open 2020s](output/2020s.md)
 ```
