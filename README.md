@@ -437,6 +437,17 @@ timeline
           : 🎯 Timestamp map: recruit training → psychological breakdown → Vietnam deployment → urban combat climax
           : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
 
+
+     1986 : Cold War naval aviation
+          : Fighter pilot training, carrier operations, and aerial combat
+          : U.S. Navy elite pilot culture during the late Cold War
+          : 🎬 "Top Gun" (1986)
+          : 📽️ SOURCE: Tony Scott action drama about naval aviators at Fighter Weapons School
+          : 📽️ SCENES: carrier takeoffs, Top Gun training dogfights, Maverick and Goose flights, volleyball scene, final combat mission
+          : 📍 Scene anchor: the training dogfights and the final aerial showdown
+          : 🎯 Timestamp map: carrier operations → elite flight school → rivalry and training → combat mission
+          : 🧠 THEMATIC LINK: adds Cold War-era military aviation and the culture of fighter pilot competition
+
      
      2003–2011 : Iraq War era
                : Urban combat, insurgency, and roadside bomb threats dominate
