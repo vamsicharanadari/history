@@ -728,6 +728,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a cold-war-style espionage chapter with psychological warfare and recruitment under pressure [web:36][web:41]
 
 
+     2018 : Kerala / monsoon disaster
+         : Floodwaters overwhelm towns and villages across Kerala
+         : Collective survival, rescue, and resilience drive the story
+         : 🎬 "2018" (2023)
+         : 📽️ SOURCE: Malayalam disaster film based on the 2018 Kerala floods [web:256][web:257]
+         : 📽️ SCENES: pre-flood daily life, rising water, rescue boats, shelter camps, final relief efforts [web:259][web:260]
+         : 📍 Scene anchor: the flood rescue and community survival effort [web:257][web:259]
+         : 🎯 Timestamp map: calm before the storm → flooding → rescue → aftermath → recovery
+         : 🧠 THEMATIC LINK: adds a natural-disaster chapter, shifting the timeline from conflict and espionage into collective human endurance [web:256][web:257]
+
+
      2019 : South America / borderlands raid
          : Former special operators attempt to steal cartel money
          : Mission spirals into betrayal, pursuit, and survival
