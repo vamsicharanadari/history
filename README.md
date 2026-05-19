@@ -3,6 +3,17 @@
 ```mermaid
 timeline
     title History
+    20,000 BCE : Ice Age Europe / survival adventure
+         : A young hunter bonds with a wolf and fights to return home
+         : Survival, trust, and friendship drive the story
+         : 🎬 "Alpha" (2018)
+         : 📽️ SOURCE: Albert Hughes’s prehistoric adventure film starring Kodi Smit-McPhee [web:835][web:838][web:840]
+         : 📽️ SCENES: buffalo hunt, fall from the cliff, wolf rescue, winter trek, camp survival, homecoming
+         : 📍 Scene anchor: Keda’s bond with the injured wolf that becomes his companion [web:835][web:838][web:840]
+         : 🎯 Timestamp map: hunt → separation → wolf encounter → wilderness journey → reunion
+         : 🧠 THEMATIC LINK: adds a survival-and-bonding chapter about adaptation, companionship, and endurance [web:835][web:838][web:840]
+
+
      Treta Yuga : Ancient India / Ramayana
          : Exiled prince rescues his wife from a demon king
          : Dharma, devotion, and epic warfare drive the story
