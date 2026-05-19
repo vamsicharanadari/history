@@ -2,28 +2,32 @@
 
 ```mermaid
 timeline
-    title Road to WWII (1918–1939) with Films
+    title Road to WWII (1918–1939) with Films + Peaky Blinders Context
 
     1918–1919 : End of WWI / Treaty of Versailles
               : Germany punished, Europe reshaped
               : 🎬 "They Shall Not Grow Old" (WWI aftermath realism)
               : 🎬 "War Horse" (WWI impact on soldiers & societies)
+              : 🧠 Peaky Blinders: returning WWI veterans, trauma, unstable Britain, rise of gangs (Tommy Shelby generation begins)
 
     1920s : Fragile peace, League of Nations formed
           : Germany unstable, hyperinflation crisis
           : 🎬 "Cabaret" (rise of political instability in Germany)
           : 🎬 "The Great Dictator" (satirical view of rising fascism)
+          : 🧠 Peaky Blinders: Birmingham gang expansion, post-war poverty, black market economy, IRA links, British class tension
 
     1929 : Great Depression begins
          : Global economic collapse → political extremism rises
          : 🎬 "Cinderella Man" (Depression-era hardship)
          : 🎬 "Germans: Rise of Hitler" (documentary-style coverage)
+         : 🧠 Peaky Blinders: Shelby business empire expansion, corruption, political influence becomes central theme
 
     Early 1930s : Hitler rises to power (1933)
                 : Germany begins rearmament
                 : USA isolationism
                 : 🎬 "Downfall (Der Untergang)" (Hitler’s regime inside Germany)
                 : 🎬 "Hitler: The Rise of Evil" (early Nazi consolidation)
+                : 🧠 Peaky Blinders: rise of extremist politics entering Britain, Oswald Mosley foreshadowed, elite political corruption
 
     1931 : Japan invades Manchuria
          : League of Nations fails to respond
@@ -39,6 +43,7 @@ timeline
          : Rome-Berlin Axis forms
          : 🎬 "Munich: The Edge of War" (appeasement politics)
          : 🎬 "Inside Hitler’s Germany" (documentary)
+         : 🧠 Peaky Blinders: British political establishment shown as weak, elite manipulation and fascist sympathy rises (Mosley era influence begins)
 
     1937 : Japan full-scale war with China
          : Brutal expansion in Asia begins
@@ -50,6 +55,7 @@ timeline
          : Appeasement reaches peak
          : 🎬 "Darkest Hour" (British decision-making under pressure)
          : 🎬 "Munich" (1938 appeasement negotiations)
+         : 🧠 Peaky Blinders: fascist ideology becomes visible in British politics (Oswald Mosley storyline mirrors real BUF rise)
 
     Early 1939 : Germany occupies Czechoslovakia
                : Britain & France realize war is likely
