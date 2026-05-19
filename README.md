@@ -170,6 +170,12 @@ timeline
          : USA enters war
          : 📽️ SOURCE: WWII archival footage + documentaries
          : 📽️ SCENES: Pearl Harbor explosion, German invasion of USSR tank columns
+         : 🎬 "Captain America: The First Avenger" (2011)
+         : 📽️ SOURCE: Marvel WWII adventure set during the rise of Hydra and the U.S. entry into the war
+         : 📽️ SCENES: Steve Rogers’ enlistment attempts, Project Rebirth, Hydra battles, rescue missions, final plane sacrifice
+         : 📍 Scene anchor: the transformation sequence and the final fight with Red Skull
+         : 🎯 Timestamp map: pre-super-soldier recruitment → training → Hydra conflict → wartime sacrifice
+         : 🧠 THEMATIC LINK: adds a superhero wartime lens to the WWII buildup, propaganda, and Allied resistance
 
 
     1942 : Stalingrad + Midway
