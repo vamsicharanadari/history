@@ -242,3 +242,9 @@ timeline
          : 📍 Scene anchor: the cinema finale and Operation Kino infiltration
          : 🎯 Timestamp map: resistance planning → undercover tension → climactic takeover
          : 🧠 THEMATIC LINK: fictional counterfactual to WWII’s end, contrasting with the real historical collapse shown in Band of Brothers
+         : 🎬 "Oppenheimer" (2023)
+         : 📽️ SOURCE: Christopher Nolan biographical drama about J. Robert Oppenheimer and the Manhattan Project
+         : 📽️ SCENES: Los Alamos research, Trinity test buildup, wartime scientific urgency, postwar hearings and moral fallout
+         : 📍 Scene anchor: the Trinity test sequence and Oppenheimer’s reaction to the atomic age
+         : 🎯 Timestamp map: wartime physics → Manhattan Project → Trinity test → nuclear aftermath
+         : 🧠 THEMATIC LINK: closes the WWII arc by shifting from battlefield war to the creation of the atomic bomb
