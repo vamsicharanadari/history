@@ -591,15 +591,15 @@ timeline
          : 🧠 THEMATIC LINK: adds the civilian aftermath of WWII, showing how war damage turns into everyday survival struggle
 
 
-     1968 : Vietnam War escalates
-          : Tet Offensive shocks the U.S.
-          : Urban warfare and media-driven conflict intensify
-          : 🎬 "Full Metal Jacket" (1987)
-          : 📽️ SOURCE: Stanley Kubrick Vietnam War film
-          : 📽️ SCENES: Parris Island boot camp, Pvt. Pyle breakdown, Vietnam city combat, sniper showdown in Huế
-          : 📍 Scene anchor: the boot camp transformation and the Huế firefight
-          : 🎯 Timestamp map: recruit training → psychological breakdown → Vietnam deployment → urban combat climax
-          : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
+     1960 : Postwar America / coming-of-age drama
+         : A young aspiring filmmaker navigates family turmoil and discovers his artistic voice
+         : Memory, family tension, and the power of movies shape the story
+         : 🎬 "The Fabelmans" (2022)
+         : 📽️ SOURCE: Steven Spielberg’s semi-autobiographical coming-of-age film about Sammy Fabelman [web:372][web:373]
+         : 📽️ SCENES: first movie theater experience, home filmmaking, family relocations, domestic conflict, John Ford meeting
+         : 📍 Scene anchor: Sammy’s realization of how filmmaking reveals family truth [web:372][web:378]
+         : 🎯 Timestamp map: childhood wonder → amateur filmmaking → family fracture → artistic growth → farewell
+         : 🧠 THEMATIC LINK: adds a personal cinema-history chapter, shifting the timeline from external conflict into inner life, art, and memory [web:372][web:375]
 
      
      1961 : Cold War / Congo Crisis / Jadotville
@@ -630,6 +630,17 @@ timeline
          : 📍 Scene anchor: the prisoner exchange on the Glienicke Bridge [web:25][web:30]
          : 🎯 Timestamp map: spy arrest → legal defense → negotiation → bridge swap → aftermath
          : 🧠 THEMATIC LINK: adds a diplomacy-and-espionage chapter, shifting from battlefield action to negotiated Cold War confrontation [web:25][web:31]
+
+
+     1968 : Vietnam War escalates
+          : Tet Offensive shocks the U.S.
+          : Urban warfare and media-driven conflict intensify
+          : 🎬 "Full Metal Jacket" (1987)
+          : 📽️ SOURCE: Stanley Kubrick Vietnam War film
+          : 📽️ SCENES: Parris Island boot camp, Pvt. Pyle breakdown, Vietnam city combat, sniper showdown in Huế
+          : 📍 Scene anchor: the boot camp transformation and the Huế firefight
+          : 🎯 Timestamp map: recruit training → psychological breakdown → Vietnam deployment → urban combat climax
+          : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
 
 
      1972 : Andes / survival disaster
