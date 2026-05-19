@@ -675,6 +675,17 @@ timeline
           : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
 
 
+     1969 : Chicago / FBI infiltration
+         : An FBI informant infiltrates the Black Panther Party and helps set up Fred Hampton
+         : Betrayal, surveillance, and political repression drive the story
+         : 🎬 "Judas and the Black Messiah" (2021)
+         : 📽️ SOURCE: Shaka King’s historical crime drama about William O’Neal and Fred Hampton [web:571][web:573][web:576]
+         : 📽️ SCENES: undercover recruitment, Panther meetings, Hampton’s rise, FBI pressure, apartment raid
+         : 📍 Scene anchor: William O’Neal’s infiltration of the Illinois Black Panther Party and the fatal raid on Hampton’s apartment [web:571][web:572][web:574]
+         : 🎯 Timestamp map: arrest → informant deal → infiltration → movement growth → betrayal → raid
+         : 🧠 THEMATIC LINK: adds a political-thriller chapter about resistance, state power, and betrayal [web:573][web:577]
+
+
      1970 : Kolkata / reincarnation drama
          : A filmmaker discovers a connection to his past life as a social reformer
          : Reincarnation, love, and resistance against injustice drive the story
