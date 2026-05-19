@@ -145,6 +145,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a high-seas adventure chapter, bringing in piracy, naval combat, and mythic treasure-hunt energy [web:49][web:53]
 
 
+    1740 : Maratha Empire / historical romance
+         : Peshwa Bajirao I falls in love with Mastani, a warrior princess, while already married to Kashibai
+         : Love, duty, honor, and political pressure drive the story
+         : 🎬 "Bajirao Mastani" (2015)
+         : 📽️ SOURCE: Sanjay Leela Bhansali’s epic historical romance about Bajirao I and Mastani [web:1056][web:1057][web:1058]
+         : 📽️ SCENES: court nomination, battlefield encounter, Holi gift misunderstanding, marriage conflict, palace tension, final tragedy
+         : 📍 Scene anchor: Bajirao and Mastani’s impossible love against family and court opposition [web:1056][web:1059][web:1062]
+         : 🎯 Timestamp map: political rise → battlefield meeting → romance → backlash → separation → tragedy
+         : 🧠 THEMATIC LINK: adds a grand period-romance chapter about power, devotion, and sacrifice [web:1058][web:1060][web:1063]
+
+
      1770 : Boston Massacre and revolutionary tension
          : Rising conflict between colonists and British troops
          : Adams defends the British soldiers in court
@@ -255,7 +266,18 @@ timeline
          : 🧠 THEMATIC LINK: adds a Gothic literary chapter, shifting the timeline from war and espionage into passion, revenge, and haunted landscapes [web:82][web:86]
 
 
-    1803–1826 : Retirement and legacy
+    1823 : American frontier / survival revenge drama
+         : Hugh Glass is mauled by a bear and left for dead by his hunting party, then crawls back through wilderness to survive and seek revenge
+         : Survival, grief, betrayal, and vengeance drive the story
+         : 🎬 "The Revenant" (2015)
+         : 📽️ SOURCE: Alejandro G. Iñárritu’s film starring Leonardo DiCaprio, based on Hugh Glass’s frontier story [web:1069][web:1071][web:1073]
+         : 📽️ SCENES: bear attack, abandoned in the snow, river survival, horse carcass shelter, Native encounters, final confrontation
+         : 📍 Scene anchor: the bear mauling and Glass being left behind by Fitzgerald and the others [web:1069][web:1070][web:1071]
+         : 🎯 Timestamp map: expedition → attack → abandonment → survival trek → revenge → resolution
+         : 🧠 THEMATIC LINK: adds a brutal wilderness chapter about endurance, loss, and the will to live [web:1072][web:1074][web:1076]
+
+
+    1826 : Retirement and legacy
          : Peacefield years, family loss, and final correspondence with Jefferson
          : Adams lives to see his son John Quincy become president
          : 🎬 "John Adams" (2008)
@@ -438,6 +460,14 @@ timeline
          : 📍 Scene anchor: the chaotic party sequence and the later studio transition to sound [web:321][web:325]
          : 🎯 Timestamp map: party chaos → studio ambitions → silent-era peak → sound era disruption → reflection
          : 🧠 THEMATIC LINK: adds a showbiz-history chapter, extending the timeline into the rise and collapse of early cinema itself [web:321][web:327]
+         : A silent-film star watches his career collapse as a rising actress thrives in the new talking-pictures era
+         : Romance, nostalgia, and reinvention drive the story
+         : 🎬 "The Artist" (2011)
+         : 📽️ SOURCE: Michel Hazanavicius’s black-and-white silent homage to classic Hollywood, starring Jean Dujardin and Bérénice Bejo [web:1154][web:1155][web:1156]
+         : 📽️ SCENES: studio backlot glamour, Peppy’s ascent, George’s decline, talking-pictures shock, rescue through performance
+         : 📍 Scene anchor: the industry’s shift from silent film to sound, which changes both careers and their relationship [web:1154][web:1158][web:1159]
+         : 🎯 Timestamp map: stardom → meeting → sound revolution → fall → comeback
+         : 🧠 THEMATIC LINK: adds a showbiz chapter about change, identity, and the end of an era [web:1154][web:1156][web:1160]
 
 
     1933 : Hitler becomes Chancellor
@@ -862,6 +892,17 @@ timeline
          : 🧠 THEMATIC LINK: adds a survival-against-nature chapter, shifting from human conflict to extreme environmental ordeal [web:170][web:176]
 
 
+    1974 : New York City / high-wire biopic
+         : Philippe Petit and his team secretly plan and execute the tightrope walk between the World Trade Center towers
+         : Risk, obsession, teamwork, and spectacle drive the story
+         : 🎬 "The Walk" (2015)
+         : 📽️ SOURCE: Robert Zemeckis’s film about Philippe Petit’s real-life 1974 high-wire walk [web:1096][web:1097][web:1098]
+         : 📽️ SCENES: childhood dream, mentor training, recruiting the team, sneaking onto the towers, the walk itself, aftermath
+         : 📍 Scene anchor: the death-defying walk across the Twin Towers on Aug. 7, 1974 [web:1096][web:1097][web:1101]
+         : 🎯 Timestamp map: dream → preparation → infiltration → walk → arrest → legend
+         : 🧠 THEMATIC LINK: adds a real-life daredevil chapter about precision, nerve, and impossible ambition [web:1099][web:1100][web:1101]
+
+
      1975 : Fictional France / anthology comedy-drama
          : The final issue of a magazine unfolds through three main stories and an obituary
          : Journalism, art, politics, and whimsy drive the story
@@ -1042,6 +1083,16 @@ timeline
          : 🎯 Timestamp map: crisis aftermath → covert planning → infiltration → betrayal → strike
          : 🧠 THEMATIC LINK: adds a contemporary espionage-and-counterterror chapter, continuing the timeline’s move from war films into intelligence operations [web:62][web:71]
 
+
+    2002 : Oakland / baseball analytics drama
+         : Billy Beane and Peter Brand try to build a winning team on a tiny budget using sabermetrics
+         : Underdog strategy, innovation, and reinvention drive the story
+         : 🎬 "Moneyball" (2011)
+         : 📽️ SOURCE: Bennett Miller’s film based on Michael Lewis’s book about the 2002 Oakland Athletics [web:1132][web:1133][web:1138]
+         : 📽️ SCENES: roster losses, player valuation debates, bargain signings, winning streak, tension with scouts and manager
+         : 📍 Scene anchor: Billy Beane’s attempt to outsmart richer teams after the 2001 postseason [web:1132][web:1133]
+         : 🎯 Timestamp map: playoff loss → analytics plan → roster rebuild → streak → postseason exit
+         : 🧠 THEMATIC LINK: adds a sports-business chapter about data-driven change and challenging tradition [web:1134][web:1137][web:1139]
      
      2003 : Iraq War era
                : Urban combat, insurgency, and roadside bomb threats dominate
@@ -1074,6 +1125,36 @@ timeline
          : 📍 Scene anchor: Anbu’s reluctant entry into the conflict between warring gangsters in North Chennai [web:802][web:804][web:806]
          : 🎯 Timestamp map: carrom days → gang association → prison years → street power shifts → final confrontation
          : 🧠 THEMATIC LINK: adds a raw urban-crime chapter about community, power, and the cost of survival [web:803][web:805][web:810]
+
+
+    2004 : Thailand / tsunami survival drama
+         : A tourist family is torn apart by the 2004 Indian Ocean tsunami and fights to reunite
+         : Survival, separation, resilience, and compassion drive the story
+         : 🎬 "The Impossible" (2012)
+         : 📽️ SOURCE: J.A. Bayona’s disaster drama based on the real experience of María Belón’s family [web:1118][web:1119][web:1124]
+         : 📽️ SCENES: family vacation, tsunami strike, injury and chaos, search for loved ones, hospital scenes, reunion
+         : 📍 Scene anchor: the tsunami aftermath in Thailand and the family’s struggle to find one another [web:1118][web:1121][web:1122]
+         : 🎯 Timestamp map: holiday setup → wave impact → separation → rescue/search → reunion
+         : 🧠 THEMATIC LINK: adds a human-survival chapter about disaster, parental protection, and endurance [web:1118][web:1124]
+
+
+    2008 : U.S. housing market / financial crisis
+         : A group of investors discovers the mortgage bubble and bets against Wall Street
+         : Greed, fraud, and collapse drive the story
+         : 🎬 "The Big Short" (2015)
+         : 📽️ SOURCE: Adam McKay’s film based on Michael Lewis’s nonfiction book about the 2008 financial crisis [web:1083][web:1085][web:1090]
+         : 📽️ SCENES: Michael Burry’s analysis, CDS bets, Mark Baum’s investigation, mortgage exposés, Vegas explanation scenes, market crash
+         : 📍 Scene anchor: the realization that subprime mortgages were failing and the decision to short the housing market [web:1083][web:1085][web:1088]
+         : 🎯 Timestamp map: bubble build-up → analysis → short positions → market unraveling → collapse
+         : 🧠 THEMATIC LINK: adds a financial-crisis chapter about systemic risk, insider knowledge, and institutional failure [web:1089][web:1092]
+         : Treasury officials race to contain the collapse after Lehman Brothers fails and markets panic
+         : Crisis management, negotiation, and systemic risk drive the story
+         : 🎬 "Too Big to Fail" (2011)
+         : 📽️ SOURCE: Curtis Hanson’s HBO film based on Andrew Ross Sorkin’s nonfiction account of the 2008 financial crisis [web:1143][web:1144][web:1147]
+         : 📽️ SCENES: Lehman bankruptcy talks, AIG rescue, TARP lobbying, emergency meetings, market fallout
+         : 📍 Scene anchor: the frantic efforts by Hank Paulson, Ben Bernanke, and Timothy Geithner to stop a global meltdown [web:1143][web:1146][web:1149]
+         : 🎯 Timestamp map: warning signs → Lehman collapse → rescue efforts → policy push → stabilization
+         : 🧠 THEMATIC LINK: adds a policy-and-banking chapter about emergency intervention and financial contagion [web:1145][web:1147][web:1149]
 
      
      2009 : South Asian covert counterterrorism
@@ -1139,6 +1220,14 @@ timeline
             : 📍 Scene anchor: Dhoni’s growth into India’s World Cup-winning captain [web:996][web:998][web:1000]
             : 🎯 Timestamp map: childhood → local cricket → selection → captaincy → World Cup triumph
             : 🧠 THEMATIC LINK: adds an inspiring sports-biopic chapter about discipline, leadership, and peak-pressure finishing [web:996][web:998][web:1003]
+         : Steve Jobs co-founds Apple, gets pushed out, returns, and helps shape the personal-computer and smartphone eras
+         : Vision, perfectionism, control, and redemption drive the story
+         : 🎬 "Steve Jobs" (2015)
+         : 📽️ SOURCE: Danny Boyle’s biographical drama based on Walter Isaacson’s biography and starring Michael Fassbender [web:1103][web:1104][web:1105]
+         : 📽️ SCENES: Macintosh launch prep, Lisa conflict, NeXT years, iMac comeback, keynote confrontations, legacy reflection
+         : 📍 Scene anchor: the backstage pressure around major product launches and Jobs’s fraught relationships [web:1103][web:1105][web:1109]
+         : 🎯 Timestamp map: early Apple → ouster → NeXT/return → product revolutions → final legacy
+         : 🧠 THEMATIC LINK: adds a high-intensity business-innovation chapter about creative genius, obsession, and leadership [web:1102][web:1103][web:1104]
 
      
      2012 : Benghazi / diplomatic compound attack
