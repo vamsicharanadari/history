@@ -34,7 +34,7 @@ timeline
          : 📍 Scene anchor: the Kadamba-era conflict around the sacred forest and the final plunge into the well [web:96][web:108]
          : 🎯 Timestamp map: ritual roots → royal demands → resistance → escalation → mythic resolution
          : 🧠 THEMATIC LINK: expands the timeline into mythic prehistory, adding a folklore-heavy origin chapter to the village and spiritual conflict already represented by Kantara [web:96][web:108]
-         
+
 
      1304 : Scottish Wars of Independence
          : Robert the Bruce fights to reclaim Scotland
@@ -554,6 +554,17 @@ timeline
           : 📍 Scene anchor: the training dogfights and the final aerial showdown
           : 🎯 Timestamp map: carrier operations → elite flight school → rivalry and training → combat mission
           : 🧠 THEMATIC LINK: adds Cold War-era military aviation and the culture of fighter pilot competition
+
+
+     1993 : Mumbai underworld / gangster revenge
+         : A feared mob boss returns after a decade in exile
+         : Criminal power, loyalty, and vengeance drive the conflict
+         : 🎬 "They Call Him OG" (2025)
+         : 📽️ SOURCE: Telugu-language crime action drama about Ojas Gambheera returning to reclaim his empire from Omi Bhau [web:127][web:128]
+         : 📽️ SCENES: exile backstory, underworld reentry, gang confrontations, revenge buildup, final showdown
+         : 📍 Scene anchor: OG’s return to Mumbai and the confrontation with Omi Bhau [web:127][web:129]
+         : 🎯 Timestamp map: exile → return → alliance shifts → criminal war → reckoning
+         : 🧠 THEMATIC LINK: adds a contemporary gangster chapter, extending the timeline from wartime and espionage into organized-crime warfare [web:127][web:129]
 
      
      2001 : Post-9/11 Afghanistan begins
