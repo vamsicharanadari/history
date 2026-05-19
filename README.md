@@ -984,6 +984,14 @@ timeline
          : 📍 Scene anchor: Theeran’s investigation into the gang’s killing pattern and the cross-state manhunt [web:910][web:911][web:914]
          : 🎯 Timestamp map: transfer → case opened → field pursuit → Rajasthan chase → confrontation → resolution
          : 🧠 THEMATIC LINK: adds a hard-edged police-procedural chapter about persistence, teamwork, and justice [web:910][web:912][web:915]
+         : Brandon Burlsworth walks on to the Razorbacks, works relentlessly, and becomes an All-American
+         : Faith, discipline, and perseverance drive the story
+         : 🎬 "Greater" (2016)
+         : 📽️ SOURCE: David Hunt’s true-story sports drama about Brandon Burlsworth [web:1047][web:1049][web:1052]
+         : 📽️ SCENES: childhood dream, walk-on tryout, training and bullying, team acceptance, breakthrough season, tragic ending
+         : 📍 Scene anchor: Burlsworth’s rise from overlooked walk-on to respected star [web:1048][web:1050][web:1054]
+         : 🎯 Timestamp map: dream → tryout → hard work → breakthrough → draft → tragedy
+         : 🧠 THEMATIC LINK: adds a faith-based sports chapter about grit, character, and legacy [web:1048][web:1051][web:1053]
 
 
      1993 : Mumbai underworld / gangster revenge
