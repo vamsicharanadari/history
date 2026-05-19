@@ -118,8 +118,9 @@ timeline
          : Dunkirk evacuation
          : Britain alone
          : 🎬 "Dunkirk" (2017)
+         : 📽️ SOURCE: WWII archival footage + wartime evacuation history
+         : 📽️ SCENES: Operation Dynamo evacuation beaches, soldiers stranded at Dunkirk, civilian boats rescue armada, air and sea evacuation under pressure
          : 🎬 "Greyhound" (2020)
-         : 📽️ SOURCE: WWII archival footage + wartime naval operations
          : 📽️ SCENES: Operation Dynamo evacuation beaches, civilian boats rescue armada, Atlantic convoy escort battles, U-boat hunt, destroyer command under pressure
 
 
