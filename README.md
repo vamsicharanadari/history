@@ -737,6 +737,14 @@ timeline
          : 📍 Scene anchor: the helicopter crash and mountain crossing with the cash load
          : 🎯 Timestamp map: recruitment → infiltration → heist → crash → escape
          : 🧠 THEMATIC LINK: adds a modern mercenary/crime-war chapter, blending military skill with criminal pressure and moral collapse
+         : A covert operation targets the networks behind unrest and militancy
+         : Intelligence work, legal maneuvering, and political pressure converge
+         : 🎬 "Article 370" (2024)
+         : 📽️ SOURCE: Hindi political thriller about the lead-up to the abrogation of Article 370, set against the 2016 Kashmir unrest and 2019 revocation [web:240][web:241]
+         : 📽️ SCENES: NIA recruitment, undercover missions, terror network disruption, secret legal discovery, final parliamentary move [web:242][web:244]
+         : 📍 Scene anchor: the covert Kashmir operation that enables the abrogation [web:240][web:241]
+         : 🎯 Timestamp map: unrest → recruitment → infiltration → intelligence breakthrough → abrogation
+         : 🧠 THEMATIC LINK: adds a political-thriller chapter to the timeline, connecting insurgency, statecraft, and legal transformation [web:235][web:240]
 
 
      2022 : Modern naval aviation
