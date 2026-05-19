@@ -437,6 +437,17 @@ timeline
           : 🎯 Timestamp map: recruit training → psychological breakdown → Vietnam deployment → urban combat climax
           : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
 
+     
+     1961 : Congo Crisis / Jadotville
+         : UN peacekeeping under siege in Katanga
+         : Outnumbered Irish troops hold a defensive position
+         : 🎬 "The Siege of Jadotville" (2016)
+         : 📽️ SOURCE: War drama about the Irish UN company in the 1961 siege in the Congo
+         : 📽️ SCENES: convoy arrival, defensive fortification, repeated assaults, negotiations, surrender under terms, aftermath
+         : 📍 Scene anchor: the multi-day siege of the Jadotville compound
+         : 🎯 Timestamp map: deployment → encirclement → sustained defense → negotiated surrender → recognition after the battle
+         : 🧠 THEMATIC LINK: adds a United Nations peacekeeping chapter, contrasting defensive endurance with the expeditionary missions already in the timeline
+
 
      1986 : Cold War naval aviation
           : Fighter pilot training, carrier operations, and aerial combat
