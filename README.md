@@ -768,6 +768,14 @@ timeline
          : 📍 Scene anchor: Rocky’s battle to retain supremacy over KGF while facing state and criminal enemies [web:781][web:783][web:785]
          : 🎯 Timestamp map: previous legend recap → Rocky’s rule → multiple enemies emerge → wars escalate → climax
          : 🧠 THEMATIC LINK: adds a larger-than-life gangster sequel chapter about dominance, legacy, and resistance [web:782][web:784][web:788]
+         : Ron Stallworth infiltrates the Ku Klux Klan with help from a white Jewish colleague
+         : Identity, satire, and anti-racist resistance drive the story
+         : 🎬 "BlacKkKlansman" (2018)
+         : 📽️ SOURCE: Spike Lee’s true-story film about the first Black detective in Colorado Springs [web:858][web:859][web:860]
+         : 📽️ SCENES: police recruitment, phone infiltration, Klan meetings, Flip’s face-to-face meetings, David Duke contact, final montage
+         : 📍 Scene anchor: Ron and Flip’s undercover operation inside the Ku Klux Klan [web:858][web:861][web:863]
+         : 🎯 Timestamp map: job assignment → Klan contact → infiltration → escalating risk → exposure
+         : 🧠 THEMATIC LINK: adds a sharp political-crime chapter about racism, disguise, and real-world extremism [web:860][web:864][web:865]
 
 
      1972 : Andes / survival disaster
