@@ -107,19 +107,11 @@ timeline
               : 🎬 "World War II in Colour"
               : 📽️ SOURCE: WWII archival footage
               : 📽️ SCENES: Blitzkrieg invasion footage, Warsaw bombing destruction
-              : 🧾 Counterfeit currency sabotage begins to fit wartime strategy
+              : 🧾 Counterfeit currency sabotage begins to fit wartime strategy, 
+              : Prisoners forced to forge near-perfect banknotes
               : 🎬 Peaky Blinders: The Immortal Man
               : 📽️ SOURCE: Historical basis: Operation Bernhard
               : 📽️ SCENES: Nazi forgery campaign against British pounds, economic warfare setup
-
-
-    1940–1945 : Nazi counterfeit currency campaign
-              : Operation Bernhard targets British sterling
-              : Prisoners forced to forge near-perfect banknotes
-              : Goal = undermine trust in sterling, fund espionage, weaken Britain economically
-              : 🎬 Peaky Blinders: The Immortal Man
-              : 📽️ SOURCE: Historical basis: Operation Bernhard
-              : 📽️ SCENES: counterfeit note production, wartime finance sabotage, covert circulation plot
 
 
     1940 : France falls
