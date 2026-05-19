@@ -77,6 +77,12 @@ timeline
          : 📍 Scene anchor: Berlin Olympic track events and Owens’ defiance of Nazi racial ideology
          : 🎯 Timestamp map: pre-Olympic training → Berlin Games → historic victories → global political impact
          : 🧠 THEMATIC LINK: adds the Olympics and propaganda angle to the 1930s buildup before WWII
+          : 🎬 "The Boys in the Boat" (2023)
+         : 📽️ SOURCE: George Clooney sports drama based on the University of Washington rowing team
+         : 📽️ SCENES: Depression-era training, tryouts, teamwork buildup, Berlin Olympic rowing final
+         : 📍 Scene anchor: the 1936 Berlin Olympics rowing race and the team’s underdog victory
+         : 🎯 Timestamp map: Great Depression hardship → crew selection → Olympic competition → Berlin triumph
+         : 🧠 THEMATIC LINK: adds an underdog sports story set against the same Nazi-era backdrop as Race
 
 
     1937 : Japan full-scale war with China
