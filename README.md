@@ -24,6 +24,18 @@ timeline
          : 🎯 Timestamp map: training → diplomatic refusal → marching to battle → clash at the pass → Spartan sacrifice
          : 🧠 THEMATIC LINK: adds an ancient heroic-warfare chapter, contrasting disciplined infantry defense with the modern and covert conflicts already in the timeline
 
+
+     4th century CE : Kadamba-era Karnataka / mythic origins
+         : Forest people, temple power, and divine forces collide
+         : A prequel origin story rooted in folklore and spiritual conflict
+         : 🎬 "Kantara: A Legend – Chapter 1" (2025)
+         : 📽️ SOURCE: Kannada-language epic mythological action drama set during the Kadamba dynasty, exploring the origins of the Bhuta Kola tradition and Kaadubettu Shiva [web:96][web:101]
+         : 📽️ SCENES: forest ritual, royal oppression, escape and resistance, port conflict, divine confrontation
+         : 📍 Scene anchor: the Kadamba-era conflict around the sacred forest and the final plunge into the well [web:96][web:108]
+         : 🎯 Timestamp map: ritual roots → royal demands → resistance → escalation → mythic resolution
+         : 🧠 THEMATIC LINK: expands the timeline into mythic prehistory, adding a folklore-heavy origin chapter to the village and spiritual conflict already represented by Kantara [web:96][web:108]
+         
+
      1304 : Scottish Wars of Independence
          : Robert the Bruce fights to reclaim Scotland
          : Guerrilla resistance, loyalty, and survival against English power
