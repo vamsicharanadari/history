@@ -1,7 +1,3 @@
-| Left | Right |
-|---|---|
-| <sub>
-
 | Hierarchy | Era | Link |
 |---|---|---|
 | Ancient | BCE | [Open BCEs](output/BCE.md) |
@@ -15,11 +11,6 @@
 | Early modern | 1740s | [Open 1740s](output/1740s.mmd) |
 | Early modern | 1770s | [Open 1770s](output/1770s.mmd) |
 | Early modern | 1780s | [Open 1780s](output/1780s.mmd) |
-
-</sub> | <sub>
-
-| Hierarchy | Era | Link |
-|---|---|---|
 | Early modern | 1790s | [Open 1790s](output/1790s.mmd) |
 | Modern | 1800s | [Open 1800s](output/1800s.mmd) |
 | Modern | 1820s | [Open 1820s](output/1820s.mmd) |
@@ -39,5 +30,3 @@
 | Modern | 2000s | [Open 2000s](output/2000s.mmd) |
 | Modern | 2010s | [Open 2010s](output/2010s.mmd) |
 | Modern | 2020s | [Open 2020s](output/2020s.mmd) |
-
-</sub> |
