@@ -112,6 +112,12 @@ timeline
               : 🎬 Peaky Blinders: The Immortal Man
               : 📽️ SOURCE: Historical basis: Operation Bernhard
               : 📽️ SCENES: Nazi forgery campaign against British pounds, economic warfare setup
+              : 🎬 "Schindler's List" (1993)
+              : 📽️ SOURCE: Steven Spielberg Holocaust drama based on Oskar Schindler's true story
+              : 📽️ SCENES: Kraków Ghetto liquidation, Plaszow camp terror, factory rescue efforts, final evacuation as the war ends
+              : 📍 Scene anchor: the girl in the red coat during the ghetto liquidation and Schindler’s list-making process
+              : 🎯 Timestamp map: Nazi occupation → ghetto liquidation → rescue through factory employment → war’s end
+              : 🧠 THEMATIC LINK: one of the strongest Holocaust films for showing persecution, survival, and moral transformation under Nazi rule
 
 
     1940 : France falls
