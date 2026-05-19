@@ -3,6 +3,18 @@
 ```mermaid
 timeline
     title History
+     480 BCE : Ancient warfare / Thermopylae
+         : Spartan stand against a vastly larger invading force
+         : Heroic last stand against overwhelming odds
+         : 🎬 "300" (2006)
+         : 📽️ SOURCE: Stylized historical epic based on the Battle of Thermopylae
+         : 📽️ SCENES: training, embassy confrontation, phalanx combat, battlefield sacrifice, final stand
+         : 📍 Scene anchor: the narrow-pass battle at Thermopylae
+         : 🎯 Timestamp map: training → diplomatic refusal → marching to battle → clash at the pass → Spartan sacrifice
+         : 🧠 THEMATIC LINK: adds an ancient heroic-warfare chapter, contrasting disciplined infantry defense with the modern and covert conflicts already in the timeline
+
+
+
      1770 : Boston Massacre and revolutionary tension
          : Rising conflict between colonists and British troops
          : Adams defends the British soldiers in court
