@@ -942,6 +942,14 @@ timeline
                : 📍 Scene anchor: the convoy escort and village defense under fire
                : 🎯 Timestamp map: deployment → patrol → repair mission → ambush → extraction
                : 🧠 THEMATIC LINK: adds an Iraq War occupation chapter, shifting the timeline from conventional battle to stabilization and counterinsurgency
+         : Anbu, a carrom player, gets pulled into gang wars, prison politics, and neighborhood power struggles
+         : Loyalty, revenge, class, and survival drive the story
+         : 🎬 "Vada Chennai" (2018)
+         : 📽️ SOURCE: Vetrimaaran’s non-linear crime drama set in North Chennai and spanning 1987 to 2003 [web:802][web:803][web:805]
+         : 📽️ SCENES: carrom hall beginnings, gang recruitment, prison alliance, murders, neighborhood clashes, revenge escalation
+         : 📍 Scene anchor: Anbu’s reluctant entry into the conflict between warring gangsters in North Chennai [web:802][web:804][web:806]
+         : 🎯 Timestamp map: carrom days → gang association → prison years → street power shifts → final confrontation
+         : 🧠 THEMATIC LINK: adds a raw urban-crime chapter about community, power, and the cost of survival [web:803][web:805][web:810]
 
      
      2009 : South Asian covert counterterrorism
