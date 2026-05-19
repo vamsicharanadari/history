@@ -34,6 +34,12 @@ timeline
           : 📍 Scene anchor: the No Man’s Land sequence and Diana leading the assault
           : 🎯 Timestamp map: hidden island origin → wartime Europe → trench breakthrough → end-of-war climax
           : 🧠 THEMATIC LINK: adds a mythic WWI perspective, showing the war through heroism, sacrifice, and the hope of stopping mass violence
+          : 🎬 "The King's Man" (2021)
+          : 📽️ SOURCE: Spy-action prequel set during World War I
+          : 📽️ SCENES: aristocratic intrigue, Balkan crisis, trench warfare, Rasputin sequence, secret agency origins
+          : 📍 Scene anchor: the trench and battlefield sequences tied to the founding of the Kingsman organization
+          : 🎯 Timestamp map: prewar conspiracy → WWI escalation → battlefield chaos → secret-service emergence
+          : 🧠 THEMATIC LINK: adds a spy-thriller angle to WWI, connecting battlefield history with the origins of covert intelligence
 
      
      1918 : WWI ends
