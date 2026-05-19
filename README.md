@@ -3,6 +3,17 @@
 ```mermaid
 timeline
     title History
+     1193 BCE : Bronze Age / Siege of Troy
+         : Greek coalition besieges the city of Troy
+         : Heroism, honor, and fate drive the conflict
+         : 🎬 "Troy" (2004)
+         : 📽️ SOURCE: Historical epic inspired by Homer’s Iliad and the Trojan War
+         : 📽️ SCENES: landing on the beach, duel challenges, wall assaults, Hector vs. Achilles, the wooden horse
+         : 📍 Scene anchor: the duel between Hector and Achilles and the fall of the city
+         : 🎯 Timestamp map: arrival → single combat → siege pressure → wooden horse → destruction
+         : 🧠 THEMATIC LINK: adds a mythic ancient-war chapter, pairing large-scale siege warfare with the heroic battlefield arcs already in the timeline
+
+
      480 BCE : Ancient warfare / Thermopylae
          : Spartan stand against a vastly larger invading force
          : Heroic last stand against overwhelming odds
