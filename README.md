@@ -307,3 +307,14 @@ timeline
          : 📍 Scene anchor: Antonio and Bruno searching the city for the stolen bicycle
          : 🎯 Timestamp map: postwar hardship → stolen bicycle → citywide search → heartbreaking moral collapse
          : 🧠 THEMATIC LINK: adds the civilian aftermath of WWII, showing how war damage turns into everyday survival struggle
+
+
+     1968 : Vietnam War escalates
+          : Tet Offensive shocks the U.S.
+          : Urban warfare and media-driven conflict intensify
+          : 🎬 "Full Metal Jacket" (1987)
+          : 📽️ SOURCE: Stanley Kubrick Vietnam War film
+          : 📽️ SCENES: Parris Island boot camp, Pvt. Pyle breakdown, Vietnam city combat, sniper showdown in Huế
+          : 📍 Scene anchor: the boot camp transformation and the Huế firefight
+          : 🎯 Timestamp map: recruit training → psychological breakdown → Vietnam deployment → urban combat climax
+          : 🧠 THEMATIC LINK: expands the chart beyond WWI/WWII into Vietnam, showing how war shapes soldiers before and after combat
