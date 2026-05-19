@@ -34,6 +34,16 @@ timeline
          : 🎯 Timestamp map: declaration of outlawry → regrouping → raids → siege → counterattack
          : 🧠 THEMATIC LINK: adds a medieval independence-war chapter, bridging heroic last stands and insurgent warfare
 
+     1720s : Golden Age of Piracy / Caribbean seas
+         : A cursed pirate crew, a stolen ship, and a race for lost treasure
+         : Swashbuckling adventure, naval action, and supernatural curses
+         : 🎬 "Pirates of the Caribbean: The Curse of the Black Pearl" (2003)
+         : 📽️ SOURCE: Fantasy adventure film set during a fictionalized Golden Age of Piracy [web:49][web:50]
+         : 📽️ SCENES: port attack, cursed crew reveal, ship battles, sword duels, moonlit transformation
+         : 📍 Scene anchor: the Black Pearl battles and the cursed pirate reveal
+         : 🎯 Timestamp map: port raid → escape → curse discovery → naval chase → treasure showdown
+         : 🧠 THEMATIC LINK: adds a high-seas adventure chapter, bringing in piracy, naval combat, and mythic treasure-hunt energy [web:49][web:53]
+
 
      1770 : Boston Massacre and revolutionary tension
          : Rising conflict between colonists and British troops
