@@ -266,12 +266,23 @@ timeline
               : 📽️ SCENES: Thomas Shelby trench flashbacks, PTSD auditory hallucinations, post-war factory labor depiction
 
 
-    1920–1923 : Post-war chaos in Europe
-              : Germany hyperinflation crisis (1923)
-              : Weak governments, instability
-              : 🧠 Peaky Blinders S1–S2 → black market economy, IRA conflict
-              : 📽️ SOURCE: Peaky Blinders (S1–S2)
-              : 📽️ SCENES: Shelby betting shop operations, street gang shootouts, IRA assassination plotline
+     1920 : Oklahoma / Osage Reign of Terror
+         : Oil wealth, murder, and corruption engulf the Osage Nation
+         : Greed, betrayal, and justice define the investigation
+         : 🎬 "Killers of the Flower Moon" (2023)
+         : 📽️ SOURCE: Martin Scorsese’s crime drama based on David Grann’s book and the Osage murders [web:214][web:215][web:216]
+         : 📽️ SCENES: oil discovery, courting and marriage, poisoning and shootings, FBI investigation, courtroom unraveling
+         : 📍 Scene anchor: the investigation into the Osage murders and the exposure of the conspiracy [web:215][web:221]
+         : 🎯 Timestamp map: oil boom → manipulation → murders → FBI probe → justice
+         : 🧠 THEMATIC LINK: adds a historical true-crime chapter, extending the timeline into systemic violence, exploitation, and federal investigation [web:214][web:219]
+
+
+    1923 : Post-war chaos in Europe
+          : Germany hyperinflation crisis (1923)
+          : Weak governments, instability
+          : 🧠 Peaky Blinders S1–S2 → black market economy, IRA conflict
+          : 📽️ SOURCE: Peaky Blinders (S1–S2)
+          : 📽️ SCENES: Shelby betting shop operations, street gang shootouts, IRA assassination plotline
 
 
     1924–1929 : Fragile peace period
