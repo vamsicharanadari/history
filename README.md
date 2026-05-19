@@ -32,13 +32,20 @@ timeline
          : 🎯 Timestamp map: first shots → colonial mobilization → political commitment → war footing [web:245][web:251]
 
     1776 : Declaration of Independence
-         : Thomas Jefferson drafts the declaration
-         : Adams supports the break from Britain
+         : Continental Congress votes to break from Britain
+         : Thomas Jefferson drafts the declaration, Adams pushes for independence
          : 🎬 "John Adams" (2008)
          : 📽️ SOURCE: HBO seven-part miniseries based on David McCullough’s biography
          : 📽️ SCENES: Declaration debates, Continental Congress votes, Adams and Jefferson partnership
          : 📍 Scene anchor: the independence vote and declaration sequence
-         : 🎯 Timestamp map: drafting → debate → vote → independence proclaimed [web:244][web:252]
+         : 🎯 Timestamp map: drafting → debate → vote → independence proclaimed
+         : 🧠 THEMATIC LINK: centers the founding moment of the United States and fits cleanly between 1775 and 1777–1783
+         : 🎬 "1776" (1972)
+         : 📽️ SOURCE: Historical musical drama based on the Broadway show
+         : 📽️ SCENES: Continental Congress debates, Jefferson drafting the Declaration, voting on independence
+         : 📍 Scene anchor: the congressional vote and the drafting of the Declaration
+         : 🎯 Timestamp map: debate → draft → vote → independence
+         : 🧠 THEMATIC LINK: captures the political birth of the United States in the same founding moment as the John Adams miniseries
 
     1777–1783 : Revolutionary diplomacy
          : Adams serves in Europe to gain support for the war
