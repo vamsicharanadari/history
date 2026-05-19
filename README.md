@@ -146,6 +146,12 @@ timeline
          : 📽️ SCENES: Operation Dynamo evacuation beaches, soldiers stranded at Dunkirk, civilian boats rescue armada, air and sea evacuation under pressure
          : 🎬 "Greyhound" (2020)
          : 📽️ SCENES: Operation Dynamo evacuation beaches, civilian boats rescue armada, Atlantic convoy escort battles, U-boat hunt, destroyer command under pressure
+         : 🎬 "Darkest Hour" (2017)
+         : 📽️ SOURCE: Historical drama about Winston Churchill's early premiership during WWII
+         : 📽️ SCENES: Churchill’s cabinet crisis, debate over negotiating with Hitler, Dunkirk decision-making, wartime speeches
+         : 📍 Scene anchor: Churchill in the war room and the Underground speech sequence
+         : 🎯 Timestamp map: Churchill becomes PM → cabinet conflict → Dunkirk evacuation → “we shall fight” resolve
+         : 🧠 THEMATIC LINK: pairs directly with Dunkirk and Greyhound as the political side of Britain’s 1940 survival
 
 
     1941 : Barbarossa + Pearl Harbor
